@@ -18,8 +18,8 @@
 - [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)
 - [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)
-- [Jez humble - Adopting Continuous Delivery](http://vimeo.com/68320415)
-- [Jez humble - (Re-)architecting for Continuous Delivery](http://vimeo.com/68226813)
+- [Jez Humble - Adopting Continuous Delivery](http://vimeo.com/68320415)
+- [Jez Humble - (Re-)architecting for Continuous Delivery](http://vimeo.com/68226813)
 - [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212)
 
 ## Git
