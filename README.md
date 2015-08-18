@@ -36,10 +36,15 @@
 
 - [Sasha Goldshtein - Making .NET Applications Faster](https://vimeo.com/131636651)
 
+## Security
+
+- [Troy Hunt - Hack yourself first: go on the cyber-offence before online attackers do](http://www.youtube.com/watch?v=d_tWyqaQ2Jk)
+
 ## Psychology
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
+- [Denise R Jacobs - Banish your inner critic](http://vimeo.com/channels/ndc2014/97318800)
 
 ## Data Science
 - [Ron Bekkerman - Machine Learning: The Basics](https://www.youtube.com/watch?v=wjTJVhmu1JM)
