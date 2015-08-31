@@ -47,4 +47,6 @@
 - [Denise R Jacobs - Banish your inner critic](http://vimeo.com/channels/ndc2014/97318800)
 
 ## Data Science
+
 - [Ron Bekkerman - Machine Learning: The Basics](https://www.youtube.com/watch?v=wjTJVhmu1JM)
+- [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)
