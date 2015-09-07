@@ -8,25 +8,29 @@
 - [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 
+## Web Development
+
+- [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)
+
 ## Agile & Development Practices
 
 - [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352)
 - [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
 - [Vasco Duarte - How to improve estimates for software: The #NoEstimates view](https://www.youtube.com/watch?v=7ud-4bKJr8k)
+- [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)
 
 ## Devops
 
 - [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)
 - [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
-- [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)
 - [Jez Humble - Adopting Continuous Delivery](http://vimeo.com/68320415)
 - [Jez Humble - (Re-)architecting for Continuous Delivery](http://vimeo.com/68226813)
 - [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212)
+- [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)
 
 ## Git
 
 - [Tim Berglund - Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4)
-
 
 ## Microservices
 
