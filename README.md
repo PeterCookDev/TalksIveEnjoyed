@@ -18,6 +18,8 @@
 - [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
 - [Vasco Duarte - How to improve estimates for software: The #NoEstimates view](https://www.youtube.com/watch?v=7ud-4bKJr8k)
 - [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)
+- [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)
+- [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)
 
 ## Devops
 
