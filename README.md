@@ -34,9 +34,10 @@
 
 - [Tim Berglund - Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4)
 
-## Microservices
+## Microservices, SOA, APIs etc
 
 - [Sam Newman - Testing and Deploying Microservices](https://vimeo.com/100930174)
+- [Damian Brady - The Power of a Great API - The case for writing API first applications](http://tv.ssw.com/6384/the-power-of-a-great-api-the-case-for-writing-api-first-applications-damian-brady-at-ddd-melbourne-2015)
 
 ## Performance
 
