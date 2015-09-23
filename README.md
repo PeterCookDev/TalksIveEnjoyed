@@ -27,6 +27,7 @@
 - [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
 - [Jez Humble - Adopting Continuous Delivery](http://vimeo.com/68320415)
 - [Jez Humble - (Re-)architecting for Continuous Delivery](http://vimeo.com/68226813)
+- [Jez Humble - DevOps Culture and Practices To Create Flow](https://www.youtube.com/watch?v=oX8af9kLhlk)
 - [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212)
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)
 
