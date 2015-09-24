@@ -55,6 +55,10 @@
 - [Denise R Jacobs - Banish your inner critic](http://vimeo.com/channels/ndc2014/97318800)
 - [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
 - [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
+- [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)
+- [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)
+- [Simon Sinek - How great leaders inspire action - Simon Sinek (2009)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+- [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)
 
 ## Data Science
 
