@@ -59,6 +59,8 @@
 - [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)
 - [Simon Sinek - How great leaders inspire action - Simon Sinek (2009)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 - [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)
+- [Dr. Robert Cialdini and Steve Martin - The Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)
+- [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)
 
 ## Data Science
 
