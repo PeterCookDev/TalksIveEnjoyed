@@ -11,6 +11,7 @@
 ## Web Development
 
 - [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)
+- [Todd H Gardner - Javascript Forensics](https://vimeo.com/133137606)
 
 ## Agile & Development Practices
 
@@ -47,6 +48,7 @@
 ## Security
 
 - [Troy Hunt - Hack yourself first: go on the cyber-offence before online attackers do](http://www.youtube.com/watch?v=d_tWyqaQ2Jk)
+- [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)
 
 ## Psychology
 
@@ -61,6 +63,7 @@
 - [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)
 - [Dr. Robert Cialdini and Steve Martin - The Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)
 - [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)
+
 
 ## Data Science
 
