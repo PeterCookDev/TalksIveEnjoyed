@@ -63,6 +63,8 @@
 - [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)
 - [Dr. Robert Cialdini and Steve Martin - The Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)
 - [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)
+- [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)
+- [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
 
 
 ## Data Science
