@@ -54,24 +54,24 @@
 
 ## Psychology, Productivity and Leadership
 
-- [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)
-- [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
-- [Denise R Jacobs - Banish your inner critic](http://vimeo.com/channels/ndc2014/97318800)
-- [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
-- [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
-- [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)
-- [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)
-- [Simon Sinek - How great leaders inspire action - Simon Sinek (2009)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-- [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)
-- [Dr. Robert Cialdini and Steve Martin - The Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)
-- [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)
-- [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)
-- [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
+- [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
+- [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)  [40:59]
+- [Denise R Jacobs - Banish your inner critic](http://vimeo.com/channels/ndc2014/97318800)  [52:39]
+- [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
+- [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)  [18:36]
+- [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
+- [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)  [45:50]
+- [Simon Sinek - How great leaders inspire action - Simon Sinek (2009)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)  [18:04]
+- [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)  [17:27]
+- [Dr. Robert Cialdini and Steve Martin - The Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)  [11:50]
+- [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)  [58:10]
+- [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)  [24:14]
+- [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)  [19:42]
 - [Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 
 
 ## Data Science
 
-- [Ron Bekkerman - Machine Learning: The Basics](https://www.youtube.com/watch?v=wjTJVhmu1JM)
-- [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)
-- [Carina C.Zona - Consequences of and insightful algorithm](https://vimeo.com/137770918)
+- [Ron Bekkerman - Machine Learning: The Basics](https://www.youtube.com/watch?v=wjTJVhmu1JM)  [56:33]
+- [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)  [51:28]
+- [Carina C.Zona - Consequences of and insightful algorithm](https://vimeo.com/137770918)  [39:34]
