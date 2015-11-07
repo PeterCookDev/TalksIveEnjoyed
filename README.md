@@ -25,31 +25,31 @@
 
 ## Devops
 
-- [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)
-- [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
-- [Jez Humble - Adopting Continuous Delivery](http://vimeo.com/68320415)
-- [Jez Humble - (Re-)architecting for Continuous Delivery](http://vimeo.com/68226813)
-- [Jez Humble - DevOps Culture and Practices To Create Flow](https://www.youtube.com/watch?v=oX8af9kLhlk)
-- [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212)
-- [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)
+- [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)  [46:59]
+- [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)  [1:37:44]
+- [Jez Humble - Adopting Continuous Delivery](http://vimeo.com/68320415)  [47:22]
+- [Jez Humble - (Re-)architecting for Continuous Delivery](http://vimeo.com/68226813)  [1:00:33]
+- [Jez Humble - DevOps Culture and Practices To Create Flow](https://www.youtube.com/watch?v=oX8af9kLhlk)  [45:38]
+- [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212) [1:01:46]
+- [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)  [48:01]
 
 ## Git
 
-- [Tim Berglund - Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4)
+- [Tim Berglund - Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4)  [55:44]
 
 ## Microservices, SOA, APIs etc
 
-- [Sam Newman - Testing and Deploying Microservices](https://vimeo.com/100930174)
-- [Damian Brady - The Power of a Great API - The case for writing API first applications](http://tv.ssw.com/6384/the-power-of-a-great-api-the-case-for-writing-api-first-applications-damian-brady-at-ddd-melbourne-2015)
+- [Sam Newman - Testing and Deploying Microservices](https://vimeo.com/100930174)  [1:03:14]
+- [Damian Brady - The Power of a Great API - The case for writing API first applications](http://tv.ssw.com/6384/the-power-of-a-great-api-the-case-for-writing-api-first-applications-damian-brady-at-ddd-melbourne-2015) [45:02]
 
 ## Performance
 
-- [Sasha Goldshtein - Making .NET Applications Faster](https://vimeo.com/131636651)
+- [Sasha Goldshtein - Making .NET Applications Faster](https://vimeo.com/131636651)  [1:01:55]
 
 ## Security
 
-- [Troy Hunt - Hack yourself first: go on the cyber-offence before online attackers do](http://www.youtube.com/watch?v=d_tWyqaQ2Jk)
-- [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)
+- [Troy Hunt - Hack yourself first: go on the cyber-offence before online attackers do](http://www.youtube.com/watch?v=d_tWyqaQ2Jk)  [52:11]
+- [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)  [1:01:10]
 
 
 ## Psychology, Productivity and Leadership
