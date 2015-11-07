@@ -2,25 +2,26 @@
 
 ## Design Principles
 
-- [Jimmy Bogard - Crafting Wicked Domain Models](http://vimeo.com/43598193)
-- [Jimmy Bogard - Solid Architecture in Slices not Layers](https://vimeo.com/131633177)
-- [James Newton-King - Designing Wonderful .NET APIs](http://vimeo.com/97501377)
-- [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)
-- [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- [Jimmy Bogard - Crafting Wicked Domain Models](http://vimeo.com/43598193)  [1:03:03]
+- [Jimmy Bogard - Solid Architecture in Slices not Layers](https://vimeo.com/131633177)  [55:34]
+- [James Newton-King - Designing Wonderful .NET APIs](http://vimeo.com/97501377)  [1:02:28]
+- [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
+- [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
+- [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
 
 ## Web Development
 
-- [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)
-- [Todd H Gardner - Javascript Forensics](https://vimeo.com/133137606)
+- [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)  [43:53]
+- [Todd H Gardner - Javascript Forensics](https://vimeo.com/133137606)  [50:13]
 
 ## Agile & Development Practices
 
-- [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352)
-- [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
-- [Vasco Duarte - How to improve estimates for software: The #NoEstimates view](https://www.youtube.com/watch?v=7ud-4bKJr8k)
-- [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)
-- [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)
-- [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)
+- [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352) [1:02:09]
+- [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)  [1:00:37]
+- [Vasco Duarte - How to improve estimates for software: The #NoEstimates view](https://www.youtube.com/watch?v=7ud-4bKJr8k)  [43:32]
+- [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)  [59:27]
+- [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
+- [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)   [56:36]
 
 ## Devops
 
@@ -50,7 +51,8 @@
 - [Troy Hunt - Hack yourself first: go on the cyber-offence before online attackers do](http://www.youtube.com/watch?v=d_tWyqaQ2Jk)
 - [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)
 
-## Psychology
+
+## Psychology, Productivity and Leadership
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
@@ -65,6 +67,7 @@
 - [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)
 - [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)
 - [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)
+- [Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 
 
 ## Data Science
