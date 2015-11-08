@@ -22,6 +22,7 @@
 - [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)  [59:27]
 - [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
 - [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)   [56:36]
+- [Christina Wodtke - The Executioner's Tale"](https://vimeo.com/86392023)  [21:36]
 
 ## Devops
 
