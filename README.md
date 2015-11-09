@@ -8,6 +8,8 @@
 - [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
 - [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
+- [Katrina Owen - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)  [26:04]
+
 
 ## Web Development
 
@@ -16,16 +18,22 @@
 
 ## Agile & Development Practices
 
-- [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352) [1:02:09]
-- [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)  [1:00:37]
 - [Vasco Duarte - How to improve estimates for software: The #NoEstimates view](https://www.youtube.com/watch?v=7ud-4bKJr8k)  [43:32]
 - [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)  [59:27]
 - [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
-- [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)   [56:36]
-- [Christina Wodtke - The Executioner's Tale"](https://vimeo.com/86392023)  [21:36]
+- [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
+
+## Testing
+
+- [Katrina Owen - 467 tests, 0 failures, 0 confidence - Railsberry 2013](https://vimeo.com/68730418)  [27:40]
+- [Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)  [30:50]
+- [Roy Osherove - JS Unit Testing Good Practices and Horrible Mistakes](https://www.youtube.com/watch?v=iP0Vl-vU3XM)  [46:10]
+- [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)  [1:00:37]
+- [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352) [1:02:09]
 
 ## Devops
 
+- [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)   [56:36]
 - [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)  [46:59]
 - [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)  [1:37:44]
 - [Jez Humble - Adopting Continuous Delivery](http://vimeo.com/68320415)  [47:22]
