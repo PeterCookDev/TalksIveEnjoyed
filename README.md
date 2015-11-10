@@ -9,6 +9,7 @@
 - [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
 - [Katrina Owen - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)  [26:04]
+- [Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
 
 
 ## Web Development
@@ -22,6 +23,7 @@
 - [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)  [59:27]
 - [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
 - [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
+- [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 
 ## Testing
 
