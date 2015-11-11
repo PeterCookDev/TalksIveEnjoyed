@@ -19,6 +19,7 @@
 
 ## Agile & Development Practices
 
+- [Keavy McMinn - Internal tools: make or break your team](https://vimeo.com/68762928)  [23:00]
 - [Vasco Duarte - How to improve estimates for software: The #NoEstimates view](https://www.youtube.com/watch?v=7ud-4bKJr8k)  [43:32]
 - [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)  [59:27]
 - [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
