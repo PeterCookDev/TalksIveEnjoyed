@@ -44,6 +44,7 @@
 - [Jez Humble - DevOps Culture and Practices To Create Flow](https://www.youtube.com/watch?v=oX8af9kLhlk)  [45:38]
 - [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212) [1:01:46]
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)  [48:01]
+- [Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)  [29:05]
 
 ## Git
 
@@ -79,8 +80,7 @@
 - [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)  [58:10]
 - [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)  [24:14]
 - [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)  [19:42]
-- [Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
-
+- [Teresa Amabile - Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 
 ## Data Science
 
