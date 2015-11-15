@@ -25,6 +25,7 @@
 - [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
 - [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
+- [Dan North - Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
 
 ## Testing
 
