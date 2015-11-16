@@ -34,6 +34,7 @@
 - [Roy Osherove - JS Unit Testing Good Practices and Horrible Mistakes](https://www.youtube.com/watch?v=iP0Vl-vU3XM)  [46:10]
 - [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)  [1:00:37]
 - [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352) [1:02:09]
+- [Todd Gardner - Case Studies in Terrible Testing](https://vimeo.com/144684986)  [35:46]
 
 ## Devops
 
