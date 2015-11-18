@@ -11,6 +11,7 @@
 - [Katrina Owen - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)  [26:04]
 - [Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
+- [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
 
 
 ## Web Development
