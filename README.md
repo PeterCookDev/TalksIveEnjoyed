@@ -12,6 +12,7 @@
 - [Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
+- [Katrina Owen - Here Be Dragons](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 
 
 ## Web Development
