@@ -14,7 +14,6 @@
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
 - [Katrina Owen - Here Be Dragons](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 
-
 ## Web Development
 
 - [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)  [43:53]
@@ -93,3 +92,4 @@
 - [Ron Bekkerman - Machine Learning: The Basics](https://www.youtube.com/watch?v=wjTJVhmu1JM)  [56:33]
 - [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)  [51:28]
 - [Carina C.Zona - Consequences of and insightful algorithm](https://vimeo.com/137770918)  [39:34]
+- [Adam Tornhill - Mine Social Metrics from Source Code Repositories](https://vimeo.com/144670188)  [35:57]
