@@ -87,6 +87,7 @@
 - [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)  [24:14]
 - [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)  [19:42]
 - [Teresa Amabile - Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
+- [Kathy Sierra - Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
 
 ## Data Science
 
