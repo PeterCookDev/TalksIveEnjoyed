@@ -61,9 +61,10 @@
 - [Damian Brady - The Power of a Great API - The case for writing API first applications](http://tv.ssw.com/6384/the-power-of-a-great-api-the-case-for-writing-api-first-applications-damian-brady-at-ddd-melbourne-2015) [45:02]
 - [Fred George - MicroServices: Lessons from 3 Companies](https://vimeo.com/111627195)  [33:05]
 
-## Performance
+## Performance and Scalability
 
 - [Sasha Goldshtein - Making .NET Applications Faster](https://vimeo.com/131636651)  [1:01:55]
+- [Marco Cecconi - What I've Learnt Working at Scale](https://vimeo.com/144799320)  [40:49]
 
 ## Security
 
