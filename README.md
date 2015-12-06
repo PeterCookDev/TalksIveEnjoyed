@@ -72,7 +72,7 @@
 - [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)  [1:01:10]
 
 
-## Psychology, Productivity and Leadership
+## Psychology, Culture, Productivity and Leadership
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)  [40:59]
@@ -89,6 +89,7 @@
 - [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)  [19:42]
 - [Teresa Amabile - Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 - [Kathy Sierra - Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
+- [Kinsey Ann Durham - Code, Culture and the Pursuit of Happiness](https://www.youtube.com/watch?v=O98rt9Z11LU)  [24:29]
 
 ## Data Science
 
