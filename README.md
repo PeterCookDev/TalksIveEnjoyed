@@ -90,6 +90,7 @@
 - [Teresa Amabile - Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 - [Kathy Sierra - Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
 - [Kinsey Ann Durham - Code, Culture and the Pursuit of Happiness](https://www.youtube.com/watch?v=O98rt9Z11LU)  [24:29]
+- [Richard Sheridan - Build a Workplace People Love - Just add Joy](https://vimeo.com/144370269)  [01:14:11]
 
 ## Data Science
 
