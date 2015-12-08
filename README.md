@@ -14,6 +14,7 @@
 - [Katrina Owen - Here Be Dragons](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Katrina Owen - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)  [26:04]
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
+- [Hadi Hariri - Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
 
 ## Web Development
 
