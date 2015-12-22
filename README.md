@@ -102,3 +102,7 @@
 - [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)  [51:28]
 - [Carina C.Zona - Consequences of and insightful algorithm](https://vimeo.com/137770918)  [39:34]
 - [Adam Tornhill - Mine Social Metrics from Source Code Repositories](https://vimeo.com/144670188)  [35:57]
+
+## General Development 
+
+- [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
