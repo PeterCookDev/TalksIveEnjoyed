@@ -96,6 +96,7 @@
 - [Kinsey Ann Durham - Code, Culture and the Pursuit of Happiness](https://www.youtube.com/watch?v=O98rt9Z11LU)  [24:29]
 - [Richard Sheridan - Build a Workplace People Love - Just add Joy](https://vimeo.com/144370269)  [01:14:11]
 - [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
+- [Sean Stephenson - The prison of your mind](https://www.youtube.com/watch?v=VaRO5-V1uK0)  [10:25]
 
 ## Data Science
 
