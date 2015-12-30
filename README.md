@@ -99,6 +99,7 @@
 - [Sean Stephenson - The prison of your mind](https://www.youtube.com/watch?v=VaRO5-V1uK0)  [10:25]
 - [Laura Schulz - The surprisingly logical minds of babies](http://www.ted.com/talks/laura_schulz_the_surprisingly_logical_minds_of_babies)  [20:18]
 - [Brené Brown - The power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability)  [20:19]
+- [Margaret Heffernan - The dangers of "willful blindness"](http://www.ted.com/talks/margaret_heffernan_the_dangers_of_willful_blindness) [14:38] 
 
 ## Data Science
 
