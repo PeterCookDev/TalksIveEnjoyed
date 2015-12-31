@@ -2,9 +2,9 @@
 
 ## Design Principles
 
-- [Jimmy Bogard - Crafting Wicked Domain Models](http://vimeo.com/43598193)  [1:03:03]
+- [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)  [1:03:03]
 - [Jimmy Bogard - Solid Architecture in Slices not Layers](https://vimeo.com/131633177)  [55:34]
-- [James Newton-King - Designing Wonderful .NET APIs](http://vimeo.com/97501377)  [1:02:28]
+- [James Newton-King - Designing Wonderful .NET APIs](https://vimeo.com/97501377)  [1:02:28]
 - [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
 - [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
@@ -16,6 +16,7 @@
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
 - [Hadi Hariri - Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
 - [Mark Seemann - Types + Properties = Software](https://vimeo.com/144800642)  [40:39]
+- [Kirk Scott Allen - LINQ - Beyond Queries](https://channel9.msdn.com/Blogs/matthijs/LINQ-Beyond-Queries-by-Scott-Allen) [55:03]
 
 ## Web Development
 
@@ -37,8 +38,8 @@
 - [Katrina Owen - 467 tests, 0 failures, 0 confidence - Railsberry 2013](https://vimeo.com/68730418)  [27:40]
 - [Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)  [30:50]
 - [Roy Osherove - JS Unit Testing Good Practices and Horrible Mistakes](https://www.youtube.com/watch?v=iP0Vl-vU3XM)  [46:10]
-- [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)  [1:00:37]
-- [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352) [1:02:09]
+- [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
+- [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](https://vimeo.com/68383352) [1:02:09]
 - [Todd Gardner - Case Studies in Terrible Testing](https://vimeo.com/144684986)  [35:46]
 - [Joe Colantonio - The Test Automation Playbook : Succeeding with Automation Awesomeness](https://vimeo.com/144831370) [32:37]
 
@@ -47,8 +48,8 @@
 - [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)   [56:36]
 - [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)  [46:59]
 - [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)  [1:37:44]
-- [Jez Humble - Adopting Continuous Delivery](http://vimeo.com/68320415)  [47:22]
-- [Jez Humble - (Re-)architecting for Continuous Delivery](http://vimeo.com/68226813)  [1:00:33]
+- [Jez Humble - Adopting Continuous Delivery](https://vimeo.com/68320415)  [47:22]
+- [Jez Humble - (Re-)architecting for Continuous Delivery](https://vimeo.com/68226813)  [1:00:33]
 - [Jez Humble - DevOps Culture and Practices To Create Flow](https://www.youtube.com/watch?v=oX8af9kLhlk)  [45:38]
 - [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212) [1:01:46]
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)  [48:01]
@@ -80,7 +81,7 @@
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)  [40:59]
-- [Denise R Jacobs - Banish your inner critic](http://vimeo.com/channels/ndc2014/97318800)  [52:39]
+- [Denise R Jacobs - Banish your inner critic](https://vimeo.com/channels/ndc2014/97318800)  [52:39]
 - [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 - [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)  [18:36]
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
