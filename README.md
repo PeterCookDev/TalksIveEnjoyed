@@ -4,8 +4,6 @@
 
 - [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)  [1:03:03]
 - [Jimmy Bogard - Solid Architecture in Slices not Layers](https://vimeo.com/131633177)  [55:34]
-- [James Newton-King - Designing Wonderful .NET APIs](https://vimeo.com/97501377)  [1:02:28]
-- [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
 - [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
 - [Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
@@ -16,7 +14,13 @@
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
 - [Hadi Hariri - Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
 - [Mark Seemann - Types + Properties = Software](https://vimeo.com/144800642)  [40:39]
+
+## .NET and `C#`
+
+- [Bart J.F. De Smet - Under the Hood of C# 6](https://vimeo.com/144630847)  [44:25]
 - [Kirk Scott Allen - LINQ - Beyond Queries](https://channel9.msdn.com/Blogs/matthijs/LINQ-Beyond-Queries-by-Scott-Allen) [55:03]
+- [James Newton-King - Designing Wonderful .NET APIs](https://vimeo.com/97501377)  [1:02:28]
+- [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
 
 ## Web Development
 
