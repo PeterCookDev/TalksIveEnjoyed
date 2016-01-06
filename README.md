@@ -118,3 +118,4 @@
 ## General Development 
 
 - [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
+- [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
