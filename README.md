@@ -87,7 +87,6 @@
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)  [40:59]
 - [Denise R Jacobs - Banish your inner critic](https://vimeo.com/channels/ndc2014/97318800)  [52:39]
-- [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 - [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)  [18:36]
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
 - [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)  [45:50]
@@ -107,6 +106,7 @@
 - [Brené Brown - The power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability)  [20:19]
 - [Margaret Heffernan - The dangers of "willful blindness"](http://www.ted.com/talks/margaret_heffernan_the_dangers_of_willful_blindness) [14:38] 
 - [Margaret Heffernan - Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
+- [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 
 ## Data Science
 
