@@ -21,6 +21,7 @@
 - [Kirk Scott Allen - LINQ - Beyond Queries](https://channel9.msdn.com/Blogs/matthijs/LINQ-Beyond-Queries-by-Scott-Allen) [55:03]
 - [James Newton-King - Designing Wonderful .NET APIs](https://vimeo.com/97501377)  [1:02:28]
 - [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
+- [Liam Westley - Async C# 5.0 - Patterns For Real World Use](https://vimeo.com/97337304)  [1:07:18]
 
 ## Web Development
 
@@ -90,7 +91,7 @@
 - [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)  [18:36]
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
 - [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)  [45:50]
-- [Simon Sinek - How great leaders inspire action - Simon Sinek (2009)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)  [18:04]
+- [Simon Sinek - How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)  [18:04]
 - [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)  [17:27]
 - [Dr. Robert Cialdini and Steve Martin - The Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)  [11:50]
 - [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)  [58:10]
