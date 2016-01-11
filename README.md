@@ -38,7 +38,7 @@
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 - [Dan North - Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
 
-## Testing
+## Testing and TDD
 
 - [Katrina Owen - 467 tests, 0 failures, 0 confidence - Railsberry 2013](https://vimeo.com/68730418)  [27:40]
 - [Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)  [30:50]
@@ -47,6 +47,7 @@
 - [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](https://vimeo.com/68383352) [1:02:09]
 - [Todd Gardner - Case Studies in Terrible Testing](https://vimeo.com/144684986)  [35:46]
 - [Joe Colantonio - The Test Automation Playbook : Succeeding with Automation Awesomeness](https://vimeo.com/144831370) [32:37]
+- [Jimmy Bogard - 8 Simple TDD Rules](https://vimeo.com/111091466)  [41:24]
 
 ## Devops
 
