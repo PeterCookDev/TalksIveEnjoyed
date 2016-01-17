@@ -37,6 +37,7 @@
 - [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 - [Dan North - Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
+- [Liz Keogh - An Introduction to Cynefin and related awesome thinking tools](https://vimeo.com/144981699)  [44:40]
 
 ## Testing and TDD
 
