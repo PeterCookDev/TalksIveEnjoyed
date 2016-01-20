@@ -28,6 +28,7 @@
 
 - [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)  [43:53]
 - [Todd H Gardner - Javascript Forensics](https://vimeo.com/133137606)  [50:13]
+- [Una Kravets - A Primer on Performance](https://vimeo.com/139912217)  [26:50]
 
 ## Agile & Development Practices
 
@@ -39,6 +40,7 @@
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 - [Dan North - Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
 - [Liz Keogh - An Introduction to Cynefin and related awesome thinking tools](https://vimeo.com/144981699)  [44:40]
+- [Troy Magennis - Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching](https://vimeo.com/144824390)  [41:17]
 
 ## Testing and TDD
 
