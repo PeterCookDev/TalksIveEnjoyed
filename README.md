@@ -77,6 +77,7 @@
 - [Damian Brady - The Power of a Great API - The case for writing API first applications](http://tv.ssw.com/6384/the-power-of-a-great-api-the-case-for-writing-api-first-applications-damian-brady-at-ddd-melbourne-2015) [45:02]
 - [Fred George - MicroServices: Lessons from 3 Companies](https://vimeo.com/111627195)  [33:05]
 - [Darrel Miller - Crafting Evolvable Web API Representations](https://vimeo.com/131643022)  [1:03:19]
+- [Mike Amundsen - Learning Client Hypermedia from the Ground Up](https://vimeo.com/131642790)  [54:06]
 
 ## Performance and Scalability
 
