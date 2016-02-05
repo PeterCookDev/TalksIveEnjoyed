@@ -118,6 +118,7 @@
 - [Margaret Heffernan - Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
 - [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 - [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
+- [James Mickens - It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997)  [31:31]
 
 ## Data Science
 
