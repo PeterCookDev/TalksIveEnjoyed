@@ -1,6 +1,15 @@
 # Talks I've Enjoyed
 
-## Design Principles
+## Career Skills and IT Culture
+
+- [Jurgen Appelo - The 7 Duties of Great Software Professionals](https://vimeo.com/99516367)  [1:02:27]
+- [Kathy Sierra - Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
+- [Kinsey Ann Durham - Code, Culture and the Pursuit of Happiness](https://www.youtube.com/watch?v=O98rt9Z11LU)  [24:29]
+- [James Mickens - It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997)  [31:31]
+- [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
+- [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
+
+## Design Principles and General Development
 
 - [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)  [1:03:03]
 - [Jimmy Bogard - Solid Architecture in Slices not Layers](https://vimeo.com/131633177)  [55:34]
@@ -15,6 +24,7 @@
 - [Hadi Hariri - Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
 - [Mark Seemann - Types + Properties = Software](https://vimeo.com/144800642)  [40:39]
 - [Ian Cooper - Not just layers! What can pipelines and events do for you?](https://vimeo.com/113584390)  [1:00:22]
+- [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 
 ## .NET and `C#`
 
@@ -91,7 +101,6 @@
 - [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)  [1:01:10]
 - [Philip Åkesson, Andreas Hallberg - Secure coding patterns](https://vimeo.com/110897723)  [36:13]
 
-
 ## Psychology, Culture, Productivity and Leadership
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
@@ -107,10 +116,7 @@
 - [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)  [24:14]
 - [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)  [19:42]
 - [Teresa Amabile - Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
-- [Kathy Sierra - Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
-- [Kinsey Ann Durham - Code, Culture and the Pursuit of Happiness](https://www.youtube.com/watch?v=O98rt9Z11LU)  [24:29]
 - [Richard Sheridan - Build a Workplace People Love - Just add Joy](https://vimeo.com/144370269)  [01:14:11]
-- [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
 - [Sean Stephenson - The prison of your mind](https://www.youtube.com/watch?v=VaRO5-V1uK0)  [10:25]
 - [Laura Schulz - The surprisingly logical minds of babies](http://www.ted.com/talks/laura_schulz_the_surprisingly_logical_minds_of_babies)  [20:18]
 - [Brené Brown - The power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability)  [20:19]
@@ -118,7 +124,6 @@
 - [Margaret Heffernan - Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
 - [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 - [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
-- [James Mickens - It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997)  [31:31]
 
 ## Data Science
 
@@ -126,8 +131,3 @@
 - [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)  [51:28]
 - [Carina C.Zona - Consequences of and insightful algorithm](https://vimeo.com/137770918)  [39:34]
 - [Adam Tornhill - Mine Social Metrics from Source Code Repositories](https://vimeo.com/144670188)  [35:57]
-
-## General Development 
-
-- [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
-- [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
