@@ -63,6 +63,7 @@
 - [Todd Gardner - Case Studies in Terrible Testing](https://vimeo.com/144684986)  [35:46]
 - [Joe Colantonio - The Test Automation Playbook : Succeeding with Automation Awesomeness](https://vimeo.com/144831370) [32:37]
 - [Jimmy Bogard - 8 Simple TDD Rules](https://vimeo.com/111091466)  [41:24]
+- [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
 
 ## Devops
 
