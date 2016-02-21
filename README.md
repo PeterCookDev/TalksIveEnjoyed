@@ -99,6 +99,7 @@
 ## Security
 
 - [Troy Hunt - Hack yourself first: go on the cyber-offence before online attackers do](http://www.youtube.com/watch?v=d_tWyqaQ2Jk)  [52:11]
+- [Troy Hunt - 50 Shades of AppSec](https://vimeo.com/153220272)  [1:03:36]
 - [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)  [1:01:10]
 - [Philip Åkesson, Andreas Hallberg - Secure coding patterns](https://vimeo.com/110897723)  [36:13]
 
