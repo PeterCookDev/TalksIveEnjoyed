@@ -102,6 +102,7 @@
 - [Troy Hunt - 50 Shades of AppSec](https://vimeo.com/153220272)  [1:03:36]
 - [Troy Hunt - Lessons from 220 Million Breached Records](https://vimeo.com/154958732) [1:05:11]
 - [Troy Hunt - Web Security Essentials by Example](https://vimeo.com/154962595)  [53:09]
+- [Troy Hunt & Niall Merrigan - Both Sides of the Attack](https://vimeo.com/154956509)  [1:05:32]
 - [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)  [1:01:10]
 - [Philip Åkesson, Andreas Hallberg - Secure coding patterns](https://vimeo.com/110897723)  [36:13]
 
