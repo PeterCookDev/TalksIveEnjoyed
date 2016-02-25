@@ -106,6 +106,7 @@
 - [Troy Hunt & Niall Merrigan - Both Sides of the Attack](https://vimeo.com/154956509)  [1:05:32]
 - [Barry Dorrans - Going beyond OWASP](https://vimeo.com/131642364)  [1:01:10]
 - [Philip Åkesson, Andreas Hallberg - Secure coding patterns](https://vimeo.com/110897723)  [36:13]
+- [Einar Otto Stangvik - Security in the Media](https://vimeo.com/154961992)  [55:12]
 
 ## Psychology, Culture, Productivity and Leadership
 
