@@ -14,6 +14,7 @@
 - [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)  [1:03:03]
 - [Jimmy Bogard - Solid Architecture in Slices not Layers](https://vimeo.com/131633177)  [55:34]
 - [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
+- [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
 - [Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
