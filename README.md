@@ -135,6 +135,7 @@
 - [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
 - [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
+- [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51]
 
 ## Data Science
 
