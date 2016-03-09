@@ -32,6 +32,7 @@
 
 - [Bart J.F. De Smet - Under the Hood of C# 6](https://vimeo.com/144630847)  [44:25]
 - [Kirk Scott Allen - LINQ - Beyond Queries](https://channel9.msdn.com/Blogs/matthijs/LINQ-Beyond-Queries-by-Scott-Allen) [55:03]
+- [Kirk Scott Allen - Code Gems From the Rosyln and .NET Source Code](https://vimeo.com/131637370)  [51:51]
 - [James Newton-King - Designing Wonderful .NET APIs](https://vimeo.com/97501377)  [1:02:28]
 - [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](https://vimeo.com/97337304)  [1:07:18]
