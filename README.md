@@ -39,6 +39,10 @@
 - [Mads Torgersen - Play in C#](https://www.youtube.com/watch?v=08klj0nZYK8)  [46:53]
 - [Cecil Phillip - ASP.NET MVC 6 and the New .NET Web Stack](https://www.youtube.com/watch?v=6wecOOuhSuc)  [55:25] 
 
+## Python
+
+- [Andrew Montalenti - NLTK and Text Procesing](https://vimeo.com/53062324)  [40:26]
+
 ## Web Development
 
 - [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)  [43:53]
