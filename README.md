@@ -42,6 +42,7 @@
 ## Python
 
 - [Andrew Montalenti - NLTK and Text Procesing](https://vimeo.com/53062324)  [40:26]
+- [Lynn Cherny - Bestseller Analysis: Sex Scene Detection, Topics, and Pacing](https://vimeo.com/74075845)  [41:36]
 
 ## Web Development
 
