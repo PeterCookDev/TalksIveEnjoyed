@@ -8,6 +8,7 @@
 - [James Mickens - It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997)  [31:31]
 - [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
 - [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
+- [Celeste Headlee - 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?language=en) [11:44]
 
 ## Design Principles and General Development
 
@@ -142,7 +143,9 @@
 - [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
 - [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
-- [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51]
+- [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
+- [David Logan - Tribal leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership?language=en) [16:39]
+
 
 ## Data Science
 
