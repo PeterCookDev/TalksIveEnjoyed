@@ -28,6 +28,7 @@
 - [Mark Seemann - Types + Properties = Software](https://vimeo.com/144800642)  [40:39]
 - [Ian Cooper - Not just layers! What can pipelines and events do for you?](https://vimeo.com/113584390)  [1:00:22]
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
+- [James Pearce, Ben Ogle Ben Hamilton - Building an IDE that Scales](https://www.youtube.com/watch?v=WI_Q3PuqAiE) [35:51]
 
 ## .NET and `C#`
 
