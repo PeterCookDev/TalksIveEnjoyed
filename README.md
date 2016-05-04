@@ -29,6 +29,7 @@
 - [Ian Cooper - Not just layers! What can pipelines and events do for you?](https://vimeo.com/113584390)  [1:00:22]
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [James Pearce, Ben Ogle Ben Hamilton - Building an IDE that Scales](https://www.youtube.com/watch?v=WI_Q3PuqAiE) [35:51]
+- [Peter Seibel - Engineering Effectiveness at Twitter](https://www.youtube.com/watch?v=8IyXcLFO9ns) [27:52]
 
 ## .NET and `C#`
 
@@ -39,7 +40,7 @@
 - [Venkat Subramaniam - Transforming your C# code to functional style](https://vimeo.com/97519532)  [1:02:45]
 - [Liam Westley - Async C# 5.0 - Patterns For Real World Use](https://vimeo.com/97337304)  [1:07:18]
 - [Mads Torgersen - Play in C#](https://www.youtube.com/watch?v=08klj0nZYK8)  [46:53]
-- [Cecil Phillip - ASP.NET MVC 6 and the New .NET Web Stack](https://www.youtube.com/watch?v=6wecOOuhSuc)  [55:25] 
+- [Cecil Phillip - ASP.NET MVC 6 and the New .NET Web Stack](https://www.youtube.com/watch?v=6wecOOuhSuc)  [55:25]
 
 ## Python
 
@@ -138,7 +139,7 @@
 - [Sean Stephenson - The prison of your mind](https://www.youtube.com/watch?v=VaRO5-V1uK0)  [10:25]
 - [Laura Schulz - The surprisingly logical minds of babies](http://www.ted.com/talks/laura_schulz_the_surprisingly_logical_minds_of_babies)  [20:18]
 - [Brené Brown - The power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability)  [20:19]
-- [Margaret Heffernan - The dangers of "willful blindness"](http://www.ted.com/talks/margaret_heffernan_the_dangers_of_willful_blindness) [14:38] 
+- [Margaret Heffernan - The dangers of "willful blindness"](http://www.ted.com/talks/margaret_heffernan_the_dangers_of_willful_blindness) [14:38]
 - [Margaret Heffernan - Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
 - [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 - [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
