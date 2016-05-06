@@ -148,6 +148,7 @@
 - [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
 - [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
 - [David Logan - Tribal leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership?language=en) [16:39]
+- [Lois Kelly - Run with a Rebel Wild Pack](https://www.youtube.com/watch?v=WGcrwz7X4B0) [13:44]
 
 
 ## Data Science
