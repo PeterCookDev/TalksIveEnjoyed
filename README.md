@@ -149,6 +149,7 @@
 - [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
 - [David Logan - Tribal leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership?language=en) [16:39]
 - [Lois Kelly - Run with a Rebel Wild Pack](https://www.youtube.com/watch?v=WGcrwz7X4B0) [13:44]
+- [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
 
 
 ## Data Science
