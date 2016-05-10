@@ -9,6 +9,9 @@
 - [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
 - [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
 - [Celeste Headlee - 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?language=en) [11:44]
+- [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
+- [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
+- [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
 
 ## Design Principles and General Development
 
@@ -149,8 +152,6 @@
 - [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
 - [David Logan - Tribal leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership?language=en) [16:39]
 - [Lois Kelly - Run with a Rebel Wild Pack](https://www.youtube.com/watch?v=WGcrwz7X4B0) [13:44]
-- [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
-- [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
 
 
 ## Data Science
