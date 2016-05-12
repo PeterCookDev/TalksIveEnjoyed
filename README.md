@@ -14,6 +14,7 @@
 - [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
 - [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
+- [Kate Heddleston - Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) [30:12]
 
 ## Design Principles and General Development
 
