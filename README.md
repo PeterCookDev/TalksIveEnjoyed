@@ -15,6 +15,7 @@
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
 - [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
 - [Kate Heddleston - Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) [30:12]
+- [Allison McMillan - BDD: Baby Driven Development](https://www.youtube.com/watch?v=nZHTg3Hza1U)  [35:39]
 
 ## Design Principles and General Development
 
@@ -157,7 +158,7 @@
 - [Lois Kelly - Run with a Rebel Wild Pack](https://www.youtube.com/watch?v=WGcrwz7X4B0) [13:44]
 - [Nickolas Means - You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo)  [32:56]
 - [Chris Lema - The Impostor Syndrome](https://www.youtube.com/watch?v=uKTm3TV9u4M) [39:05] 
-
+- [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)  [14:03]
 
 ## Data Science
 
