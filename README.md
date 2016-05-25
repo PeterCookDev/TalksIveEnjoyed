@@ -17,6 +17,7 @@
 - [Kate Heddleston - Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) [30:12]
 - [Allison McMillan - BDD: Baby Driven Development](https://www.youtube.com/watch?v=nZHTg3Hza1U)  [35:39]
 - [Ernie Miller - Humane Development](https://www.youtube.com/watch?v=-ZLYxLjwNWo)  [41:45]
+- [Pamela Vickers - Your Company Culture is "Awesome"](https://www.youtube.com/watch?v=W-gzcfFIv9o) [28:26]
 
 ## Design Principles and General Development
 
