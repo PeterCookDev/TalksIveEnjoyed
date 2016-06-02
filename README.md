@@ -18,6 +18,7 @@
 - [Allison McMillan - BDD: Baby Driven Development](https://www.youtube.com/watch?v=nZHTg3Hza1U)  [35:39]
 - [Ernie Miller - Humane Development](https://www.youtube.com/watch?v=-ZLYxLjwNWo)  [41:45]
 - [Pamela Vickers - Your Company Culture is "Awesome"](https://www.youtube.com/watch?v=W-gzcfFIv9o) [28:26]
+- [Dan North - Beyond Developer](https://vimeo.com/139910835)  [26:52]
 
 ## Design Principles and General Development
 
