@@ -20,6 +20,7 @@
 - [Pamela Vickers - Your Company Culture is "Awesome"](https://www.youtube.com/watch?v=W-gzcfFIv9o) [28:26]
 - [Dan North - Beyond Developer](https://vimeo.com/139910835)  [26:52]
 
+
 ## Design Principles and General Development
 
 - [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)  [1:03:03]
@@ -75,6 +76,7 @@
 - [Dan North - Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
 - [Liz Keogh - An Introduction to Cynefin and related awesome thinking tools](https://vimeo.com/144981699)  [44:40]
 - [Troy Magennis - Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching](https://vimeo.com/144824390)  [41:17]
+- [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
 
 ## Testing and TDD
 
@@ -162,6 +164,7 @@
 - [Nickolas Means - You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo)  [32:56]
 - [Chris Lema - The Impostor Syndrome](https://www.youtube.com/watch?v=uKTm3TV9u4M) [39:05]
 - [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)  [14:03]
+- [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
 
 ## Data Science
 
