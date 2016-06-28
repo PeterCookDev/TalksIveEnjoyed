@@ -42,6 +42,7 @@
 - [James Pearce, Ben Ogle Ben Hamilton - Building an IDE that Scales](https://www.youtube.com/watch?v=WI_Q3PuqAiE) [35:51]
 - [Peter Seibel - Engineering Effectiveness at Twitter](https://www.youtube.com/watch?v=8IyXcLFO9ns) [27:52]
 - [Alan Shreve - Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg)  [17:17]
+- [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
 
 ## .NET and `C#`
 
