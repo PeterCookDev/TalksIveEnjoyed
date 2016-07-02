@@ -78,6 +78,7 @@
 - [Liz Keogh - An Introduction to Cynefin and related awesome thinking tools](https://vimeo.com/144981699)  [44:40]
 - [Troy Magennis - Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching](https://vimeo.com/144824390)  [41:17]
 - [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
+- [Doc Norton - Velocity is not the goal](https://vimeo.com/97505655) [1:00:25]
 
 ## Testing and TDD
 
