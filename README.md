@@ -19,7 +19,11 @@
 - [Ernie Miller - Humane Development](https://www.youtube.com/watch?v=-ZLYxLjwNWo)  [41:45]
 - [Pamela Vickers - Your Company Culture is "Awesome"](https://www.youtube.com/watch?v=W-gzcfFIv9o) [28:26]
 - [Dan North - Beyond Developer](https://vimeo.com/139910835)  [26:52]
-
+- [Alex Gaynor - Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) [28:08]
+- [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
+- [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
+- [Aja Hammerly - Sharpening The Axe: Self-Teaching For Developers](https://www.youtube.com/watch?v=7JD9ZQZMmjo) [34:38]
+- [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
 
 ## Design Principles and General Development
 
@@ -106,9 +110,10 @@
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)  [48:01]
 - [Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)  [29:05]
 
-## Git
+## Tools
 
 - [Tim Berglund - Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4)  [55:44]
+- [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)  [30:49]
 
 ## Microservices, SOA, APIs etc
 
@@ -168,6 +173,8 @@
 - [Chris Lema - The Impostor Syndrome](https://www.youtube.com/watch?v=uKTm3TV9u4M) [39:05]
 - [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)  [14:03]
 - [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
+- [Dan Ariely - What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho) [20:27]
+
 
 ## Data Science
 
