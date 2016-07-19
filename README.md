@@ -24,6 +24,8 @@
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
 - [Aja Hammerly - Sharpening The Axe: Self-Teaching For Developers](https://www.youtube.com/watch?v=7JD9ZQZMmjo) [34:38]
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
+- [Adam Cuppy - Cult(ure)](https://www.youtube.com/watch?v=ChVSV9vCs4Y) [32:40] (yep)
+- [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0)
 
 ## Design Principles and General Development
 
@@ -86,7 +88,7 @@
 - [Troy Magennis - Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching](https://vimeo.com/144824390)  [41:17]
 - [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
 - [Doc Norton - Velocity is not the goal](https://vimeo.com/97505655) [1:00:25]
-- [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448)  [25:29] 
+- [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448)  [25:29]
 
 ## Testing and TDD
 
@@ -177,7 +179,7 @@
 - [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)  [14:03]
 - [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
 - [Dan Ariely - What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho) [20:27]
-
+- [Ramsey Nasser - Keynote: The Unfortunate Value of Failure](https://www.youtube.com/watch?v=JrwBDKV-6pQ) [34:35] (yep)
 
 ## Data Science
 
