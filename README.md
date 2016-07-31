@@ -179,7 +179,9 @@
 - [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)  [14:03]
 - [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
 - [Dan Ariely - What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho) [20:27]
-- [Ramsey Nasser - Keynote: The Unfortunate Value of Failure](https://www.youtube.com/watch?v=JrwBDKV-6pQ) [34:35] (yep)
+- [Ramsey Nasser - Keynote: The Unfortunate Value of Failure](https://www.youtube.com/watch?v=JrwBDKV-6pQ) [34:35]
+- [Jessica Rose - Impostor Syndrome and Individual Competence](https://www.youtube.com/watch?v=wtrF5C7Gv7E) [26:49]
+
 
 ## Data Science
 
