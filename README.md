@@ -70,6 +70,7 @@
 - Natural language processing in Python using NLTK [part 1](https://www.youtube.com/watch?v=AOU-Yw1qdJs) [part 2](https://www.youtube.com/watch?v=EuIzZMfHTCg) [part 3](https://www.youtube.com/watch?v=ncUIzVG2zzs)
 - [Mariano Anaya - Clean code in Python](https://www.youtube.com/watch?v=7ADbOHW1dTA) [21:44]
 - [Brett Slatkin - Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) [30:24]
+- [Stuart Williams - Python by Immersion](https://www.youtube.com/watch?v=RVNIdoepdzU) [3:00:40]
 
 
 ## Web Development
