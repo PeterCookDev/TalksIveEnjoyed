@@ -93,6 +93,7 @@
 - [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
 - [Doc Norton - Velocity is not the goal](https://vimeo.com/97505655) [1:00:25]
 - [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448)  [25:29]
+- [Aino Vonge Corry - Retrospective Anti-Patterns](https://www.youtube.com/watch?v=Os7_lF6VMXw) [48:52]
 
 ## Testing and TDD
 
