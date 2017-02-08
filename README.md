@@ -188,7 +188,7 @@
 - [Ramsey Nasser - Keynote: The Unfortunate Value of Failure](https://www.youtube.com/watch?v=JrwBDKV-6pQ) [34:35]
 - [Jessica Rose - Impostor Syndrome and Individual Competence](https://www.youtube.com/watch?v=wtrF5C7Gv7E) [26:49]
 - [Dr. Brian Little - Personalities at Work](https://www.youtube.com/watch?v=HQtUGMXqoD4) [57:44]
-
+- [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
 
 ## Data Science
 
