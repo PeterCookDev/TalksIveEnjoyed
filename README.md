@@ -26,6 +26,7 @@
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
 - [Adam Cuppy - Cult(ure)](https://www.youtube.com/watch?v=ChVSV9vCs4Y) [32:40] (yep)
 - [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0)
+- [Simon Brown - Visualise, Document & Explore your Software Architecture](https://www.youtube.com/watch?v=0o9_zjZeJuE) [38:17]
 
 ## Design Principles and General Development
 
