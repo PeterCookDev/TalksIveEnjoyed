@@ -189,6 +189,7 @@
 - [Jessica Rose - Impostor Syndrome and Individual Competence](https://www.youtube.com/watch?v=wtrF5C7Gv7E) [26:49]
 - [Dr. Brian Little - Personalities at Work](https://www.youtube.com/watch?v=HQtUGMXqoD4) [57:44]
 - [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
+- [Linda Rising - Who do You Trust? Beware of Your Brain](https://www.youtube.com/watch?v=IGHhCmdIvuI) [52:00]
 
 ## Data Science
 
