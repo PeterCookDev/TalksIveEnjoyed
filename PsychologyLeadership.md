@@ -34,6 +34,7 @@
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
 - [Richard Sheridan - Build a Workplace People Love - Just add Joy](https://vimeo.com/144370269)  [01:14:11]
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
+- [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 
 ## Psychology, Culture, Productivity and Leadership
 
