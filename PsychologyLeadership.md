@@ -72,5 +72,6 @@
 - [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
 - [Linda Rising - Who do You Trust? Beware of Your Brain](https://www.youtube.com/watch?v=IGHhCmdIvuI) [52:00]
 - [Zach Holman - Firing People](https://www.youtube.com/watch?v=dxGen7sPWTw)  [39:09]
+- [Caroline Moore - Burnout and the Cult of Busy](https://www.youtube.com/watch?v=0yAJfiMlo7g) [32:07]
 
 \* *Disclaimer* - I know this speaker personally.
