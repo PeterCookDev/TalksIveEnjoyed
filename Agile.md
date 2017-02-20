@@ -17,6 +17,7 @@
 - [Aino Vonge Corry - Retrospective Anti-Patterns](https://www.youtube.com/watch?v=Os7_lF6VMXw) [48:52]
 - [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
 - [Courtney Eckhardt - Complex System Failures and Blameless Retrospectives](https://www.youtube.com/watch?v=Sj0sdbiyatk) [21:43]
+- [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
 
 ## Testing and TDD
 
