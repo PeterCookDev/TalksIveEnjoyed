@@ -75,5 +75,6 @@
 - [Zach Holman - Firing People](https://www.youtube.com/watch?v=dxGen7sPWTw)  [39:09]
 - [Caroline Moore - Burnout and the Cult of Busy](https://www.youtube.com/watch?v=0yAJfiMlo7g) [32:07]
 - [Meredith Noble - Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
+- [Susan Cain - "Quiet"](https://www.youtube.com/watch?v=AzlCIS072_Y)  [43:48]
 
 \* *Disclaimer* - I know this speaker personally.
