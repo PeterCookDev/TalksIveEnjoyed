@@ -20,6 +20,7 @@
 - [\* Lars Klint - The Force Awakens: Mastering Your Inner Developer](https://vimeo.com/181413894) [52:01]
 - [Maria Khalusova - How to stop wasting your time and start performing useful code reviews](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
 - [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
+- [Ross Tuck - Things I Believe Now That I'm Old](https://www.youtube.com/watch?v=ZBiexI2mv-k) [43:34]
 
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
