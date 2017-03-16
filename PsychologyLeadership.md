@@ -29,7 +29,7 @@
 - [Pamela Vickers - Your Company Culture is "Awesome"](https://www.youtube.com/watch?v=W-gzcfFIv9o) [28:26]
 - [Adam Cuppy - Cult(ure)](https://www.youtube.com/watch?v=ChVSV9vCs4Y) [32:40]
 - [Joe Mastey - Hiring Developers, with Science!](https://www.youtube.com/watch?v=ZCGGMxcJMZk) [32:31]
-- [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0)
+- [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0) [40:56]
 - [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
 - [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
 - [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
