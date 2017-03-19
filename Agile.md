@@ -51,6 +51,7 @@
 
 - [Tim Berglund - Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4)  [55:44]
 - [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)  [30:49]
+- [Alex Gaynor - The cobbler's children have no shoes, or building better tools for ourselves](https://www.youtube.com/watch?v=gRFHvavxnos) [29:51]
 
 ## Technical Writing
 - [Daniel D. Beck - Write the Readable README ](https://www.youtube.com/watch?v=2dAK42B7qtw) [22:49]

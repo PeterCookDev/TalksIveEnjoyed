@@ -24,6 +24,7 @@
 - [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
 - [John Hyland - Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
+- [Bryan Helmkamp -  Code Quality Lessons Learned](https://www.youtube.com/watch?v=vcH0RBe4Eew) [30:21]
 
 ## .NET and `C#`
 
