@@ -86,5 +86,6 @@
 - [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)  [51:28]
 - [Carina C.Zona - Consequences of and insightful algorithm](https://vimeo.com/137770918)  [39:34]
 - [Adam Tornhill - Mine Social Metrics from Source Code Repositories](https://vimeo.com/144670188)  [35:57]
+- [Eva Nahari - NLP: Something Old, Something New...](https://www.youtube.com/watch?v=InayOc_Dpyg)  [49:48]
 
 \* *Disclaimer* - I know this speaker personally.
