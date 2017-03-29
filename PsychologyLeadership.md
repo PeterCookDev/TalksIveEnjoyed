@@ -81,5 +81,6 @@
 - [Caroline Moore - Burnout and the Cult of Busy](https://www.youtube.com/watch?v=0yAJfiMlo7g) [32:07]
 - [Meredith Noble - Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
 - [Susan Cain - "Quiet"](https://www.youtube.com/watch?v=AzlCIS072_Y)  [43:48]
+- [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
 
 \* *Disclaimer* - I know this speaker personally.
