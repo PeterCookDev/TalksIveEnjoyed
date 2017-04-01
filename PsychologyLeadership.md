@@ -82,5 +82,6 @@
 - [Meredith Noble - Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
 - [Susan Cain - "Quiet"](https://www.youtube.com/watch?v=AzlCIS072_Y)  [43:48]
 - [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
-
+- [Jim Hemerling - 5 ways to lead in an era of constant change](https://www.ted.com/talks/jim_hemerling_5_ways_to_lead_in_an_era_of_constant_change) [13:21)
+- [Michele L. Sullivan - Asking for help is a strength, not a weakness](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)  [11:55]
 \* *Disclaimer* - I know this speaker personally.
