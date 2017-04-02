@@ -84,4 +84,7 @@
 - [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
 - [Jim Hemerling - 5 ways to lead in an era of constant change](https://www.ted.com/talks/jim_hemerling_5_ways_to_lead_in_an_era_of_constant_change) [13:21)
 - [Michele L. Sullivan - Asking for help is a strength, not a weakness](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)  [11:55]
+- [Laura Vanderkam - How to gain control of your free time](https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time) [11:54]
+
+
 \* *Disclaimer* - I know this speaker personally.
