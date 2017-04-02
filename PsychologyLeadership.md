@@ -86,5 +86,6 @@
 - [Michele L. Sullivan - Asking for help is a strength, not a weakness](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)  [11:55]
 - [Laura Vanderkam - How to gain control of your free time](https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time) [11:54]
 - [Adam Grant - The surprising habits of original thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)  [15:25]
+- [Shawn Achor - The happy secret to better work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work)  [12:20]
 
 \* *Disclaimer* - I know this speaker personally.
