@@ -11,6 +11,7 @@
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
 - [Greg Young - Unleash your Domain](https://vimeo.com/19428577)  [54:43]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
+- [Greg Young - Stop Over-Engineering](https://www.youtube.com/watch?v=GRr4xeMn1uU) [47:25]
 - [Katrina Owen - Here Be Dragons](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Katrina Owen - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)  [26:04]
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
