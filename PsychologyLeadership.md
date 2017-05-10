@@ -25,6 +25,7 @@
 - [Kate Matsudaira - Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4)  [38:20] 
 - [Adam Dangoor - Another pair of eyes: Reviewing code well](https://www.youtube.com/watch?v=JWBBI-jFVOc) [25:08]
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
+- [Sven Peters - How to do Kickass Software Development](https://vimeo.com/70102926) [59:08]
 
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
