@@ -45,6 +45,7 @@
 - [Adel Smee - What I Learned About Hiring...](https://www.youtube.com/watch?v=TRJC-HXHkrQ) [22:54]
 - [Naomi Ceder - Antipatterns for Diversity](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
 - [Cheryl Gore Schaefer - Grow Your Team In 90 Days](https://www.youtube.com/watch?v=pHABlefSVZk) [38:19]
+- [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
 
 ## Psychology, Culture, Productivity and Leadership
 
