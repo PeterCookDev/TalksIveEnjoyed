@@ -44,6 +44,7 @@
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 - [Adel Smee - What I Learned About Hiring...](https://www.youtube.com/watch?v=TRJC-HXHkrQ) [22:54]
 - [Naomi Ceder - Antipatterns for Diversity](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
+- [Cheryl Gore Schaefer - Grow Your Team In 90 Days](https://www.youtube.com/watch?v=pHABlefSVZk) [38:19]
 
 ## Psychology, Culture, Productivity and Leadership
 
