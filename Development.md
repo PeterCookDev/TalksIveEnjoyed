@@ -70,6 +70,7 @@
 
 - [Sasha Goldshtein - Making .NET Applications Faster](https://vimeo.com/131636651)  [1:01:55]
 - [Marco Cecconi - What I've Learnt Working at Scale](https://vimeo.com/144799320)  [40:49]
+- [Aaron Stannard - Performance as a First Class Feature with NBench](https://vimeo.com/180862940) [53:51]
 
 ## Security
 
