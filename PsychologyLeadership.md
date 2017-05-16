@@ -26,6 +26,7 @@
 - [Adam Dangoor - Another pair of eyes: Reviewing code well](https://www.youtube.com/watch?v=JWBBI-jFVOc) [25:08]
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
 - [Sven Peters - How to do Kickass Software Development](https://vimeo.com/70102926) [59:08]
+- [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
 
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
@@ -95,5 +96,6 @@
 - [Mihaly Csikszentmihalyi - Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) [18:55]
 - [Jason Fried - Why work doesn't happen at work](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) [15:21]
 - [Nickolas Means - How to crash an airplane](https://www.youtube.com/watch?v=NLXys9vgWiY) [43:12]
+- [Jesse James - Supporting Mental Health as an Effective Leader](https://www.youtube.com/watch?v=UR-J7O5ZJ4Q) [33:18]
 
 \* *Disclaimer* - I know this speaker personally.
