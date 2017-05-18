@@ -47,6 +47,7 @@
 - [Naomi Ceder - Antipatterns for Diversity](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
 - [Cheryl Gore Schaefer - Grow Your Team In 90 Days](https://www.youtube.com/watch?v=pHABlefSVZk) [38:19]
 - [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
+- [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=1K8Gz7fMevo) [29:07]
 
 ## Psychology, Culture, Productivity and Leadership
 
