@@ -26,6 +26,7 @@
 - [Adam Dangoor - Another pair of eyes: Reviewing code well](https://www.youtube.com/watch?v=JWBBI-jFVOc) [25:08]
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
 - [Sven Peters - How to do Kickass Software Development](https://vimeo.com/70102926) [59:08]
+- [Sven Peters - Coding Culture](https://www.youtube.com/watch?v=l2bxzCTlvMs) [1:00:48]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
 - [Shawn Rider - Work is Not a Dare: Tips for Building Inclusive Teams](https://www.youtube.com/watch?v=OdHH5KWGTNo) [37:26]
 
