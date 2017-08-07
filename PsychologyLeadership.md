@@ -29,6 +29,7 @@
 - [Sven Peters - Coding Culture](https://www.youtube.com/watch?v=l2bxzCTlvMs) [1:00:48]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
 - [Shawn Rider - Work is Not a Dare: Tips for Building Inclusive Teams](https://www.youtube.com/watch?v=OdHH5KWGTNo) [37:26]
+- [Kim Scott - Superstars vs Rock Stars: Inspire Your Team to Do The Best Work of Their Lives](https://www.youtube.com/watch?v=3oChxm4eUbM) [21:46]
 
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
