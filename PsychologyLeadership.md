@@ -108,5 +108,6 @@
 - [Jesse James - Supporting Mental Health as an Effective Leader](https://www.youtube.com/watch?v=UR-J7O5ZJ4Q) [33:18]
 - [Ed Finkler - Stronger Than Fear: Mental Health in the Developer Community](https://www.youtube.com/watch?v=7CoEDFOXJQo) [42:31]
 - [Andrea Goulet - Communication is just as important as code](https://www.youtube.com/watch?v=Vdu3K-4LYf4) [27:04]
+- [Michael Ruggiero - What Do 1-on-1s Really Mean?](https://www.youtube.com/watch?v=iUWVQZzllTc) [16:19]
 
 \* *Disclaimer* - I know this speaker personally.
