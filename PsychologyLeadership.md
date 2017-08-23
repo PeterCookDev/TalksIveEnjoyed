@@ -32,6 +32,7 @@
 - [Kim Scott - Superstars vs Rock Stars: Inspire Your Team to Do The Best Work of Their Lives](https://www.youtube.com/watch?v=3oChxm4eUbM) [21:46]
 - [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg) [28:39]
 - [Erika Carlson - Better: Fearless Feedback for Software Teams](https://www.youtube.com/watch?v=RsfNS9HSWQs)  [32:14]
+- [Panayiotis Thomakos - Developer Productivity Engineering](https://www.youtube.com/watch?v=mL6kOPxuQTI) [10:31] 
 
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
