@@ -56,6 +56,7 @@
 - [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
 - [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=1K8Gz7fMevo) [29:07]
 - [Rebecca Miller-Webster - Trust and Teams](https://www.youtube.com/watch?v=Y16EuIKYszs)  [12:57]
+- [Randall Koutnik - Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs) [25:03]
 
 ## Psychology, Culture, Productivity and Leadership
 
