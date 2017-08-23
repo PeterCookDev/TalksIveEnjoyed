@@ -54,6 +54,7 @@
 - [Cheryl Gore Schaefer - Grow Your Team In 90 Days](https://www.youtube.com/watch?v=pHABlefSVZk) [38:19]
 - [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
 - [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=1K8Gz7fMevo) [29:07]
+- [Rebecca Miller-Webster - Trust and Teams](https://www.youtube.com/watch?v=Y16EuIKYszs)  [12:57]
 
 ## Psychology, Culture, Productivity and Leadership
 
