@@ -7,19 +7,14 @@
 - [James Mickens - It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997)  [31:31]
 - [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
 - [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
-- [Celeste Headlee - 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?language=en) [11:44]
-- [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
 - [Allison McMillan - BDD: Baby Driven Development](https://www.youtube.com/watch?v=nZHTg3Hza1U)  [35:39]
 - [Ernie Miller - Humane Development](https://www.youtube.com/watch?v=-ZLYxLjwNWo)  [41:45]
 - [Dan North - Beyond Developer](https://vimeo.com/139910835)  [26:52]
 - [Alex Gaynor - Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) [28:08]
-- [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
-- [Aja Hammerly - Sharpening The Axe: Self-Teaching For Developers](https://www.youtube.com/watch?v=7JD9ZQZMmjo) [34:38]
 - [Simon Brown - Visualise, Document & Explore your Software Architecture](https://www.youtube.com/watch?v=0o9_zjZeJuE) [38:17]
 - [\* Lars Klint - The Force Awakens: Mastering Your Inner Developer](https://vimeo.com/181413894) [52:01]
 - [Maria Khalusova - How to stop wasting your time and start performing useful code reviews](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
-- [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
 - [Ross Tuck - Things I Believe Now That I'm Old](https://www.youtube.com/watch?v=ZBiexI2mv-k) [43:34]
 - [Martin Thompson - Engineering You!](https://www.youtube.com/watch?v=NaFiqCjexOs) [45:59]
 - [Kate Matsudaira - Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4)  [38:20] 
@@ -33,6 +28,9 @@
 - [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg) [28:39]
 - [Erika Carlson - Better: Fearless Feedback for Software Teams](https://www.youtube.com/watch?v=RsfNS9HSWQs)  [32:14]
 - [Panayiotis Thomakos - Developer Productivity Engineering](https://www.youtube.com/watch?v=mL6kOPxuQTI) [10:31] 
+- [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=1K8Gz7fMevo) [29:07]
+- [Rebecca Miller-Webster - Trust and Teams](https://www.youtube.com/watch?v=Y16EuIKYszs)  [12:57]
+- [Randall Koutnik - Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs) [25:03]
 
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
@@ -52,16 +50,11 @@
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 - [Adel Smee - What I Learned About Hiring...](https://www.youtube.com/watch?v=TRJC-HXHkrQ) [22:54]
 - [Naomi Ceder - Antipatterns for Diversity](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
-- [Cheryl Gore Schaefer - Grow Your Team In 90 Days](https://www.youtube.com/watch?v=pHABlefSVZk) [38:19]
-- [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
-- [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=1K8Gz7fMevo) [29:07]
-- [Rebecca Miller-Webster - Trust and Teams](https://www.youtube.com/watch?v=Y16EuIKYszs)  [12:57]
-- [Randall Koutnik - Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs) [25:03]
 
 ## Psychology, Culture, Productivity and Leadership
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
-- [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)  [40:59]
+
 - [Denise R Jacobs - Banish your inner critic](https://vimeo.com/channels/ndc2014/97318800)  [52:39]
 - [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)  [18:36]
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
@@ -80,24 +73,19 @@
 - [Margaret Heffernan - Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
 - [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 - [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
-- [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
 - [David Logan - Tribal leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership?language=en) [16:39]
 - [Lois Kelly - Run with a Rebel Wild Pack](https://www.youtube.com/watch?v=WGcrwz7X4B0) [13:44]
 - [Nickolas Means - You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo)  [32:56]
 - [Chris Lema - The Impostor Syndrome](https://www.youtube.com/watch?v=uKTm3TV9u4M) [39:05]
 - [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)  [14:03]
-- [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
 - [Dan Ariely - What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho) [20:27]
 - [Ramsey Nasser - Keynote: The Unfortunate Value of Failure](https://www.youtube.com/watch?v=JrwBDKV-6pQ) [34:35]
 - [Jessica Rose - Impostor Syndrome and Individual Competence](https://www.youtube.com/watch?v=wtrF5C7Gv7E) [26:49]
 - [Dr. Brian Little - Personalities at Work](https://www.youtube.com/watch?v=HQtUGMXqoD4) [57:44]
-- [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
 - [Linda Rising - Who do You Trust? Beware of Your Brain](https://www.youtube.com/watch?v=IGHhCmdIvuI) [52:00]
 - [Zach Holman - Firing People](https://www.youtube.com/watch?v=dxGen7sPWTw)  [39:09]
 - [Caroline Moore - Burnout and the Cult of Busy](https://www.youtube.com/watch?v=0yAJfiMlo7g) [32:07]
-- [Meredith Noble - Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
 - [Susan Cain - "Quiet"](https://www.youtube.com/watch?v=AzlCIS072_Y)  [43:48]
-- [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
 - [Jim Hemerling - 5 ways to lead in an era of constant change](https://www.ted.com/talks/jim_hemerling_5_ways_to_lead_in_an_era_of_constant_change) [13:21)
 - [Michele L. Sullivan - Asking for help is a strength, not a weakness](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)  [11:55]
 - [Laura Vanderkam - How to gain control of your free time](https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time) [11:54]
@@ -108,7 +96,30 @@
 - [Nickolas Means - How to crash an airplane](https://www.youtube.com/watch?v=NLXys9vgWiY) [43:12]
 - [Jesse James - Supporting Mental Health as an Effective Leader](https://www.youtube.com/watch?v=UR-J7O5ZJ4Q) [33:18]
 - [Ed Finkler - Stronger Than Fear: Mental Health in the Developer Community](https://www.youtube.com/watch?v=7CoEDFOXJQo) [42:31]
-- [Andrea Goulet - Communication is just as important as code](https://www.youtube.com/watch?v=Vdu3K-4LYf4) [27:04]
 - [Michael Ruggiero - What Do 1-on-1s Really Mean?](https://www.youtube.com/watch?v=iUWVQZzllTc) [16:19]
+
+## Coaching
+
+- [Meredith Noble - Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
+- [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
+- [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
+- [Cheryl Gore Schaefer - Grow Your Team In 90 Days](https://www.youtube.com/watch?v=pHABlefSVZk) [38:19]
+- [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
+
+## Communication
+
+- [Andrea Goulet - Communication is just as important as code](https://www.youtube.com/watch?v=Vdu3K-4LYf4) [27:04]
+- [Celeste Headlee - 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?language=en) [11:44]
+- [Amanda Quaranto - Nobody Expects an Inquisition!...](https://www.youtube.com/watch?v=2h1EocEyiSo)  [28:58]
+
+## Learning
+
+- [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)  [40:59]
+- [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
+- [Roux Buciu - Learning to code... better!](https://www.youtube.com/watch?v=jt93AfS9GYI) [32:27]
+- [Aja Hammerly - Sharpening The Axe: Self-Teaching For Developers](https://www.youtube.com/watch?v=7JD9ZQZMmjo) [34:38]
+- [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
+- [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
+- [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
 
 \* *Disclaimer* - I know this speaker personally.
