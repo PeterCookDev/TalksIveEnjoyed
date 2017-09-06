@@ -121,5 +121,6 @@
 - [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
 - [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
 - [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
+- [Chuck Lauer Vose - Building kick-ass internal education programs (for large and small budgets)](https://www.youtube.com/watch?v=LPZmNfhPPOs) [30:34]
 
 \* *Disclaimer* - I know this speaker personally.
