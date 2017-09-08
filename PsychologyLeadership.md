@@ -97,6 +97,7 @@
 - [Jesse James - Supporting Mental Health as an Effective Leader](https://www.youtube.com/watch?v=UR-J7O5ZJ4Q) [33:18]
 - [Ed Finkler - Stronger Than Fear: Mental Health in the Developer Community](https://www.youtube.com/watch?v=7CoEDFOXJQo) [42:31]
 - [Michael Ruggiero - What Do 1-on-1s Really Mean?](https://www.youtube.com/watch?v=iUWVQZzllTc) [16:19]
+- [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
 
 ## Coaching
 
