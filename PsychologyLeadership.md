@@ -54,7 +54,6 @@
 ## Psychology, Culture, Productivity and Leadership
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
-
 - [Denise R Jacobs - Banish your inner critic](https://vimeo.com/channels/ndc2014/97318800)  [52:39]
 - [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)  [18:36]
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
