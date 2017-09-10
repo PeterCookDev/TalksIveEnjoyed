@@ -31,6 +31,7 @@
 - [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=1K8Gz7fMevo) [29:07]
 - [Rebecca Miller-Webster - Trust and Teams](https://www.youtube.com/watch?v=Y16EuIKYszs)  [12:57]
 - [Randall Koutnik - Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs) [25:03]
+- [Paulette Luftig - Finding your edge through a culture of feedback](https://www.youtube.com/watch?v=J2IgDlCRBVM) [33:28]
 
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
@@ -97,6 +98,7 @@
 - [Ed Finkler - Stronger Than Fear: Mental Health in the Developer Community](https://www.youtube.com/watch?v=7CoEDFOXJQo) [42:31]
 - [Michael Ruggiero - What Do 1-on-1s Really Mean?](https://www.youtube.com/watch?v=iUWVQZzllTc) [16:19]
 - [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
+- [Deb Nicholson - Say No, Like a Boss!](https://www.youtube.com/watch?v=zMn70y4kLnM) [28:50]
 
 ## Coaching
 
