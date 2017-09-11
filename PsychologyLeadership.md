@@ -45,9 +45,14 @@ Takeaway: C4 approach to visualising architecture.  Documentation often doesn't 
 Takeaway: Validity - tests a known construct. Reliability - how closely grouped results are. Usability - how easy it is to use. You can only have 2 of them. Test your interviews on your existing team. Have a scoring rubric for the interview to minimise variance and bias. Don't debrief as a group until you have written down feedback. Interviewers will come to the same conclusion so they don't look stupid. Share all feedback at once. 
 
 - [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0) [40:56]
+
 - [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
+
 - [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
+
 - [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
+Takeaway: Don't lie to candidates. Find out what they don't like and be honest if that is the environment you have.
+
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
 - [Cate Huston - Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) [32:20]
 Takeaway: In a power based situation, the quality of the relationship is owned by the person with the power. Much of what we do as developers is not coding - we should test for those things in the interview. Remove conclusions in feedback you can't support with evidence. Remember interviewing is stressful and people are doing their best. Interviewer needs to be good at time management.
