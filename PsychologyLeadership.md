@@ -137,4 +137,7 @@ Takeaway: Make sure people have the time to mentor. Set clear expectations. Don'
 - [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
 - [Chuck Lauer Vose - Building kick-ass internal education programs (for large and small budgets)](https://www.youtube.com/watch?v=LPZmNfhPPOs) [30:34]
 
+- [Katlyn Parvin - Am I Senior Yet? Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [37:57]
+Takeaway: Tailor responses to level of skill and will of the audience. Resist the urge to teach by doing. Teaching is communication so work on your communication skills.
+
 \* *Disclaimer* - I know this speaker personally.
