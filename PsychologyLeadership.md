@@ -13,6 +13,8 @@
 - [Alex Gaynor - Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) [28:08]
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
 - [Simon Brown - Visualise, Document & Explore your Software Architecture](https://www.youtube.com/watch?v=0o9_zjZeJuE) [38:17]
+Takeaway: C4 approach to visualising architecture.  Documentation often doesn't explain intent or why we do things.  Writing architecture documentation as a guide book - what to look at, maps, culture, history, what is important to understand.
+
 - [\* Lars Klint - The Force Awakens: Mastering Your Inner Developer](https://vimeo.com/181413894) [52:01]
 - [Maria Khalusova - How to stop wasting your time and start performing useful code reviews](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
 - [Ross Tuck - Things I Believe Now That I'm Old](https://www.youtube.com/watch?v=ZBiexI2mv-k) [43:34]
