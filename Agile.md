@@ -14,6 +14,8 @@
 - [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
 - [Doc Norton - Velocity is not the goal](https://vimeo.com/97505655) [1:00:25]
 - [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448)  [25:29]
+Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams for breadth first discussions. Use de Bono's thinking hats. Presence of leaders can influence decision making as people don't want to disagree with their leaders. 
+
 - [Aino Vonge Corry - Retrospective Anti-Patterns](https://www.youtube.com/watch?v=Os7_lF6VMXw) [48:52]
 - [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
 - [Courtney Eckhardt - Complex System Failures and Blameless Retrospectives](https://www.youtube.com/watch?v=Sj0sdbiyatk) [21:43]
