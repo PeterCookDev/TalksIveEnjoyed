@@ -61,6 +61,8 @@ Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams 
 - [Tracy Osborn - Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
 - [Allison Moore - So You Need to Document an API? ](https://www.youtube.com/watch?v=KSXL-BDoGOw) [30:18]
 - [Birgitta Boeckeler - We're Agile, We Don't Do Documentation](https://www.youtube.com/watch?v=UvI3zlv5oUA) [26:03]
+Takeaway: Explains some of the reasons that documentation can be valuable, what to keep up to date and why its OK for not all documentation to be up to date. 
+
 - [Martin Gontovnikas - How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
 - [A. Jesse Jiryu Davis - Write an Excellent Programming Blog](https://www.youtube.com/watch?v=eHXq-IzlGUE) [26:53]
