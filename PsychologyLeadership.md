@@ -42,6 +42,8 @@ Takeaway: C4 approach to visualising architecture.  Documentation often doesn't 
 - [Pamela Vickers - Your Company Culture is "Awesome"](https://www.youtube.com/watch?v=W-gzcfFIv9o) [28:26]
 - [Adam Cuppy - Cult(ure)](https://www.youtube.com/watch?v=ChVSV9vCs4Y) [32:40]
 - [Joe Mastey - Hiring Developers, with Science!](https://www.youtube.com/watch?v=ZCGGMxcJMZk) [32:31]
+Takeaway: Validity - tests a known construct. Reliability - how closely grouped results are. Usability - how easy it is to use. You can only have 2 of them. Test your interviews on your existing team. Have a scoring rubric for the interview to minimise variance and bias. Don't debrief as a group until you have written down feedback. Interviewers will come to the same conclusion so they don't look stupid. Share all feedback at once. 
+
 - [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0) [40:56]
 - [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
 - [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
