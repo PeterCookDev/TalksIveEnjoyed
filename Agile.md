@@ -69,5 +69,6 @@ Takeaway: Explains some of the reasons that documentation can be valuable, what 
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
 - [A. Jesse Jiryu Davis - Write an Excellent Programming Blog](https://www.youtube.com/watch?v=eHXq-IzlGUE) [26:53]
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57] 
+Takeaway: Process of successive refinement for writing tutorials. Use concrete examples. Asking yourself - What does the reader know at this point in the tutorial?
 
 \* *Disclaimer* - I know this speaker personally.
