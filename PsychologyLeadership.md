@@ -115,6 +115,8 @@ Takeaway: People need long stretches of uninterrupted time, offices aren't good 
 Takeaway: Be empathetic, proactive, willing to take the hit, open to communication, patient, set aside ego. Have a knowledge or the resources and benefits available such as EAP. Provide private spaces away from open office environments. Remote workers are much harder - must strive to get to know team. No noise != no problems. Build trust in your team so people know people taking time off is accepted as people doing the right thing.
 
 - [Ed Finkler - Stronger Than Fear: Mental Health in the Developer Community](https://www.youtube.com/watch?v=7CoEDFOXJQo) [42:31]
+Takeaway: Honest open discussion about mental health in the developer community. Tell people they matter (so often people don't think they do). Tell them how they impact your life. Especially people whose brains lie to them.
+
 - [Michael Ruggiero - What Do 1-on-1s Really Mean?](https://www.youtube.com/watch?v=iUWVQZzllTc) [16:19]
 - [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
 - [Deb Nicholson - Say No, Like a Boss!](https://www.youtube.com/watch?v=zMn70y4kLnM) [28:50]
