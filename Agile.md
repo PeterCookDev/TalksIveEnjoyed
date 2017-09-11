@@ -62,5 +62,6 @@
 - [Martin Gontovnikas - How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
 - [A. Jesse Jiryu Davis - Write an Excellent Programming Blog](https://www.youtube.com/watch?v=eHXq-IzlGUE) [26:53]
+- [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57] 
 
 \* *Disclaimer* - I know this speaker personally.
