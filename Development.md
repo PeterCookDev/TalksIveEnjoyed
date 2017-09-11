@@ -27,6 +27,7 @@
 - [John Hyland - Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
 - [Bryan Helmkamp -  Code Quality Lessons Learned](https://www.youtube.com/watch?v=vcH0RBe4Eew) [30:21]
 - [Kevlin Henney - Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI) [1:11:22]
+- Takeaway: Great example of cargo-culted code being refactored. Smells - noisy logging, mixed levels of abstraction, programming by coincidence and programming by superstition. Comment on a block implies a named block (function).
 
 ## .NET and `C#`
 
