@@ -108,6 +108,8 @@ Takeaway: Self transformation is exciting for people, organisational transformat
 - [Shawn Achor - The happy secret to better work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work)  [12:20]
 - [Mihaly Csikszentmihalyi - Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) [18:55]
 - [Jason Fried - Why work doesn't happen at work](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) [15:21]
+Takeaway: People need long stretches of uninterrupted time, offices aren't good for this. Distractions at home are voluntary, in the office they are involuntary. Meetings need to be quick chats. No meeting days. Avoid active communication - move to passive communication like chat.
+
 - [Nickolas Means - How to crash an airplane](https://www.youtube.com/watch?v=NLXys9vgWiY) [43:12]
 - [Jesse James - Supporting Mental Health as an Effective Leader](https://www.youtube.com/watch?v=UR-J7O5ZJ4Q) [33:18]
 - [Ed Finkler - Stronger Than Fear: Mental Health in the Developer Community](https://www.youtube.com/watch?v=7CoEDFOXJQo) [42:31]
