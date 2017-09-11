@@ -50,6 +50,8 @@ Takeaway: Validity - tests a known construct. Reliability - how closely grouped 
 - [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
 - [Cate Huston - Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) [32:20]
+Takeaway: In a power based situation, the quality of the relationship is owned by the person with the power. Much of what we do as developers is not coding - we should test for those things in the interview. Remove conclusions in feedback you can't support with evidence. Remember interviewing is stressful and people are doing their best. Interviewer needs to be good at time management.
+
 - [Richard Sheridan - Build a Workplace People Love - Just add Joy](https://vimeo.com/144370269)  [01:14:11]
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
