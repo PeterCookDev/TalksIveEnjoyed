@@ -160,7 +160,10 @@ Takeaway: Make sure people have the time to mentor. Set clear expectations. Don'
 Takeaway: Lifelong learning is whats required for Tech. Learn interesting stuff, hard stuf, stuff that makes you think. Learn something everyday - 30 mins away from your desk. Timebox, explore, throwaway. Try not to learn multiple things in parallel.
 
 - [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
+
 - [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
+Takeaway: Expert is when you can teach something, when you have an intuitive grasp of the whole situation. Recent memory can only hold 4 elements. Long term memory is used to decode ideas into the recent memory to get past the 4 item limit. Constuctivism - Can only teach using things that people already know and things they already relate to.
+
 - [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
 - [Chuck Lauer Vose - Building kick-ass internal education programs (for large and small budgets)](https://www.youtube.com/watch?v=LPZmNfhPPOs) [30:34]
 
