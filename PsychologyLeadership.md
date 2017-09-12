@@ -151,9 +151,14 @@ Takeaway: Make sure people have the time to mentor. Set clear expectations. Don'
 ## Learning
 
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)  [40:59]
+
 - [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
+
 - [Roux Buciu - Learning to code... better!](https://www.youtube.com/watch?v=jt93AfS9GYI) [32:27]
+
 - [Aja Hammerly - Sharpening The Axe: Self-Teaching For Developers](https://www.youtube.com/watch?v=7JD9ZQZMmjo) [34:38]
+Takeaway: Lifelong learning is whats required for Tech. Learn interesting stuff, hard stuf, stuff that makes you think. Learn something everyday - 30 mins away from your desk. Timebox, explore, throwaway. Try not to learn multiple things in parallel.
+
 - [Linda Liukas - A delightful way to teach kids about computers](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)  [11:03]
 - [Aino Vonge Corry - A Comment on Learning](https://www.youtube.com/watch?v=xI5oxExAj1U) [51:22]
 - [Marcin Floryan - #NoLearning](https://vimeo.com/98735572)  [25:44]
