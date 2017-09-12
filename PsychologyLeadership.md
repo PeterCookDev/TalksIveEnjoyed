@@ -118,8 +118,12 @@ Takeaway: Be empathetic, proactive, willing to take the hit, open to communicati
 Takeaway: Honest open discussion about mental health in the developer community. Tell people they matter (so often people don't think they do). Tell them how they impact your life. Especially people whose brains lie to them.
 
 - [Michael Ruggiero - What Do 1-on-1s Really Mean?](https://www.youtube.com/watch?v=iUWVQZzllTc) [16:19]
+
 - [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
+
 - [Deb Nicholson - Say No, Like a Boss!](https://www.youtube.com/watch?v=zMn70y4kLnM) [28:50]
+Takeaway: Understand the total of sum of work you can actually do. Say no to ill defined work or too much work. Understand verbal self-defense and how people try to get you to do things.
+
 
 ## Coaching
 
