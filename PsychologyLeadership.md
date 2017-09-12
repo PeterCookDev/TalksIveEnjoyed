@@ -127,10 +127,13 @@ Takeaway: Honest open discussion about mental health in the developer community.
 Takeaway: Giving advice can be problematic when you don't have enough context. Coaching is about asking powerful questions to help people reach their own decisions rather than giving advice.  People are more likely to act on ideas they came up with themselves.
 
 - [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
+
 - [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
 Takeaway: Good set of guidelines for technical mentoring - respect their space, build confidence, how to manage frustrations and thinking tools you can use to help explain technical concepts (amongst others). 
 
 - [Cheryl Gore Schaefer - Grow Your Team In 90 Days](https://www.youtube.com/watch?v=pHABlefSVZk) [38:19]
+Takeaway: Working with juniors - create learning plans, encourage self assessment. Create plan in a shared tool. Organize learning by time to learn. Assess the tools used. In code review provide exemplars. Do regular assessments.
+
 - [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
 Takeaway: Make sure people have the time to mentor. Set clear expectations. Don't give feedback when people are in crisis. Understand how people take feedback.
 
