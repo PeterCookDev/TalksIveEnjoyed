@@ -25,7 +25,10 @@
 - [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
 - [John Hyland - Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
+
 - [Bryan Helmkamp -  Code Quality Lessons Learned](https://www.youtube.com/watch?v=vcH0RBe4Eew) [30:21]
+Takeaway: Measuring code complexity with cyclomatic complexity, ABC and LOC. Old code harder to maintan - code matched domain understanding when written, business then diverged. Omega mess - code only has inbound dependencies and doesn't change.
+
 - [Kevlin Henney - Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI) [1:11:22]
 - Takeaway: Great example of cargo-culted code being refactored. Smells - noisy logging, mixed levels of abstraction, programming by coincidence and programming by superstition. Comment on a block implies a named block (function).
 
