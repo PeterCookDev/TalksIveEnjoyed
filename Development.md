@@ -23,7 +23,7 @@
 - [Peter Seibel - Engineering Effectiveness at Twitter](https://www.youtube.com/watch?v=8IyXcLFO9ns) [27:52]
 
 - [Alan Shreve - Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg)  [17:17]
-- Takeaway: When exploring a large code base use code coverage tool to work out the minimum set of code that is actually run when you do something. Aim to remove incidental complexity then run on a more complex scenario incrementally to understand more. 
+Takeaway: When exploring a large code base use code coverage tool to work out the minimum set of code that is actually run when you do something. Aim to remove incidental complexity then run on a more complex scenario incrementally to understand more. 
 
 - [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
@@ -33,7 +33,7 @@
 Takeaway: Measuring code complexity with cyclomatic complexity, ABC and LOC. Old code harder to maintan - code matched domain understanding when written, business then diverged. Omega mess - code only has inbound dependencies and doesn't change.
 
 - [Kevlin Henney - Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI) [1:11:22]
-- Takeaway: Great example of cargo-culted code being refactored. Smells - noisy logging, mixed levels of abstraction, programming by coincidence and programming by superstition. Comment on a block implies a named block (function).
+Takeaway: Great example of cargo-culted code being refactored. Smells - noisy logging, mixed levels of abstraction, programming by coincidence and programming by superstition. Comment on a block implies a named block (function).
 
 ## .NET and `C#`
 

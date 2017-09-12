@@ -13,6 +13,7 @@
 - [Troy Magennis - Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching](https://vimeo.com/144824390)  [41:17]
 - [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
 - [Doc Norton - Velocity is not the goal](https://vimeo.com/97505655) [1:00:25]
+
 - [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448)  [25:29]
 Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams for breadth first discussions. Use de Bono's thinking hats. Presence of leaders can influence decision making as people don't want to disagree with their leaders. 
 
