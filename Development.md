@@ -21,7 +21,10 @@
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [James Pearce, Ben Ogle Ben Hamilton - Building an IDE that Scales](https://www.youtube.com/watch?v=WI_Q3PuqAiE) [35:51]
 - [Peter Seibel - Engineering Effectiveness at Twitter](https://www.youtube.com/watch?v=8IyXcLFO9ns) [27:52]
+
 - [Alan Shreve - Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg)  [17:17]
+- Takeaway: When exploring a large code base use code coverage tool to work out the minimum set of code that is actually run when you do something. Aim to remove incidental complexity then run on a more complex scenario incrementally to understand more. 
+
 - [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
 - [John Hyland - Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
