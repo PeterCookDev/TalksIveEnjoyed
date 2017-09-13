@@ -66,6 +66,8 @@ Takeaway: Code coverage of 0 means you aren't testing, 100% means you really car
 
 - [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)   [56:36]
 - [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)  [46:59]
+Takeaway: Biggest form of waste is features that are not used (50+%). Aim to optimise for how long to deploy a single line of code to production. Optimise for mean time to restore service rather than no downtime. Test configuration and environmental changes as rigorously as source code. Do side by side release of web services where possible. Database release - batch them up and make sure the running system can work with old and new schemas. Don't build CI in a completely separate CI project.
+
 - [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)  [1:37:44]
 - [Jez Humble - Adopting Continuous Delivery](https://vimeo.com/68320415)  [47:22]
 - [Jez Humble - (Re-)architecting for Continuous Delivery](https://vimeo.com/68226813)  [1:00:33]
