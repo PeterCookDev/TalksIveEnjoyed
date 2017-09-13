@@ -31,7 +31,10 @@ Takeaway: To avoid anti-patterns go straight to the problem, deal with problems 
 Takeaway: Complex systems have complex failures. Human error is not a root cause - how did the system let this thing happen. Remediation items should be a usable change - not try harder or be better! Retrospectives let us understand what the unintended consequences of our decisions were.
 
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
+
 - [Emily Webber - Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) [48:18]
+Takeaway: Community of Practice = Group of people who share a concern or passion for something they do and learn how to do it better as they interact regularly. Good insights on how to run a COP and its lifecycle.
+
 - [Paul Rayner - EventStorming - Collaborative Learning for Complex Domains](https://www.youtube.com/watch?v=04tGbixfGEY) [43:36]
 
 - [Ben Rockwood - The Power of A3 Thinking in Action](https://www.youtube.com/watch?v=WoR2CYAwfEM) [26:33]
