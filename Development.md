@@ -35,6 +35,9 @@ Takeaway: Measuring code complexity with cyclomatic complexity, ABC and LOC. Old
 - [Kevlin Henney - Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI) [1:11:22]
 Takeaway: Great example of cargo-culted code being refactored. Smells - noisy logging, mixed levels of abstraction, programming by coincidence and programming by superstition. Comment on a block implies a named block (function).
 
+- [Jim Holmes - "OMG! This Codebase Sucks!" Paying Down Tech Debt While Delivering Value](https://www.youtube.com/watch?v=InCmGFSA3JM) [1:00:21]
+Takeaway: 4 part approach to working and evaluating technical debt based around the business value it offers. Evaluate where you are with all stakeholders present. Work out what the business goals are. Measure how bad it is in the code. Improve readability first. Keep using the same metrics when you come to fix things (and after). Everything in dealing with tech debt comes back to organisational culture.
+
 ## .NET and `C#`
 
 - [Bart J.F. De Smet - Under the Hood of C# 6](https://vimeo.com/144630847)  [44:25]
