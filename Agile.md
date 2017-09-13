@@ -26,7 +26,10 @@ Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams 
 Takeaway: To avoid anti-patterns go straight to the problem, deal with problems as they happen not just at retro, focus on issues in the teams control, rotate facilitators, when voting on issues ensure you focus on groups where there are less people as well. 
 
 - [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
+
 - [Courtney Eckhardt - Complex System Failures and Blameless Retrospectives](https://www.youtube.com/watch?v=Sj0sdbiyatk) [21:43]
+Takeaway: Complex systems have complex failures. Human error is not a root cause - how did the system let this thing happen. Remediation items should be a usable change - not try harder or be better! Retrospectives let us understand what the unintended consequences of our decisions were.
+
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
 - [Emily Webber - Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) [48:18]
 - [Paul Rayner - EventStorming - Collaborative Learning for Complex Domains](https://www.youtube.com/watch?v=04tGbixfGEY) [43:36]
