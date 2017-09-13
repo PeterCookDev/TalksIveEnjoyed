@@ -42,7 +42,9 @@ Takeaway: Kaizen is a way of life not a an event. A3 framework - create a single
 
 ## Testing and TDD
 
-- [Katrina Owen - 467 tests, 0 failures, 0 confidence - Railsberry 2013](https://vimeo.com/68730418)  [27:40]
+- [Katrina Owen - 467 tests, 0 failures, 0 confidence](https://vimeo.com/68730418)  [27:40]
+Takeaway: Outgoing messages assert collaboration occurred. Incoming messages assert the state of the system and side effects. Methods that are hard to test and need characterisation tests are probably doing too much. High code coverage does not mean good tests.
+
 - [Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)  [30:50]
 - [Roy Osherove - JS Unit Testing Good Practices and Horrible Mistakes](https://www.youtube.com/watch?v=iP0Vl-vU3XM)  [46:10]
 - [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
