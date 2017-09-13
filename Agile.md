@@ -51,8 +51,12 @@ Takeaway: Outgoing messages assert collaboration occurred. Incoming messages ass
 Takeaway: Maybe 1 in 5 tests should have mocks. Should have lots of stubs not mocks. Only mock out dependencies to an external 3rd party framework. Unit tests should avoid logic, random numbers and loops. Watch out for tests that interact.
 
 - [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
+
 - [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](https://vimeo.com/68383352) [1:02:09]
+
 - [Todd Gardner - Case Studies in Terrible Testing](https://vimeo.com/144684986)  [35:46]
+Takeaway: Code coverage of 0 means you aren't testing, 100% means you really care that you hit 100% but your code could still be bad. Tests might just test how good you are at setting up mocks. Fast to fix is almost as good as never broken. Test what breaks. Test the scariest thing first. Monitoring can sometimes be a substitute for tests.
+
 - [Joe Colantonio - The Test Automation Playbook : Succeeding with Automation Awesomeness](https://vimeo.com/144831370) [32:37]
 - [Jimmy Bogard - 8 Simple TDD Rules](https://vimeo.com/111091466)  [41:24]
 - [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
