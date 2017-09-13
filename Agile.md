@@ -6,7 +6,10 @@
 Takeaway: Good software is designed around real pain that is pain now. I don't like X - onus on the the individual to put down things they don't like with how to fix it on an ideas portal. 
 
 - [Vasco Duarte - How to improve estimates for software: The #NoEstimates view](https://www.youtube.com/watch?v=7ud-4bKJr8k)  [43:32]
+
 - [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)  [59:27]
+Takeaway: Data mine source control to see how changes to files occur over time. Use NDepend to gather metrics such as afferent and efferent coupling. Metrics are things to look at, not rules which must be upheld.
+
 - [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
 - [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
