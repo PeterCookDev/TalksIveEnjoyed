@@ -23,6 +23,8 @@ Takeaway: Data mine source control to see how changes to files occur over time. 
 Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams for breadth first discussions. Use de Bono's thinking hats. Presence of leaders can influence decision making as people don't want to disagree with their leaders. 
 
 - [Aino Vonge Corry - Retrospective Anti-Patterns](https://www.youtube.com/watch?v=Os7_lF6VMXw) [48:52]
+Takeaway: To avoid anti-patterns go straight to the problem, deal with problems as they happen not just at retro, focus on issues in the teams control, rotate facilitators, when voting on issues ensure you focus on groups where there are less people as well. 
+
 - [Joakim Sundén - Scaled Agile @ Spotify](https://vimeo.com/111131934)  [43:51
 - [Courtney Eckhardt - Complex System Failures and Blameless Retrospectives](https://www.youtube.com/watch?v=Sj0sdbiyatk) [21:43]
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
