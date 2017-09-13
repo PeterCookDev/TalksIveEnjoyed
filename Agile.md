@@ -23,7 +23,9 @@ Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams 
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
 - [Emily Webber - Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) [48:18]
 - [Paul Rayner - EventStorming - Collaborative Learning for Complex Domains](https://www.youtube.com/watch?v=04tGbixfGEY) [43:36]
+
 - [Ben Rockwood - The Power of A3 Thinking in Action](https://www.youtube.com/watch?v=WoR2CYAwfEM) [26:33]
+Takeaway: Kaizen is a way of life not a an event. A3 framework - create a single A3 page. Steps consist of problem statement, problem background (why should anyone care?), current state, desired future state, root cause analysis + gap analysis, define and execute experiments, review and study results against desired future state, decide and act on the new information.
 
 ## Testing and TDD
 
