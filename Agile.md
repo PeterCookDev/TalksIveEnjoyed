@@ -46,7 +46,10 @@ Takeaway: Kaizen is a way of life not a an event. A3 framework - create a single
 Takeaway: Outgoing messages assert collaboration occurred. Incoming messages assert the state of the system and side effects. Methods that are hard to test and need characterisation tests are probably doing too much. High code coverage does not mean good tests.
 
 - [Sandro Mancuso - Driving well-crafted code through tests](https://vimeo.com/120567335)  [30:50]
+
 - [Roy Osherove - JS Unit Testing Good Practices and Horrible Mistakes](https://www.youtube.com/watch?v=iP0Vl-vU3XM)  [46:10]
+Takeaway: Maybe 1 in 5 tests should have mocks. Should have lots of stubs not mocks. Only mock out dependencies to an external 3rd party framework. Unit tests should avoid logic, random numbers and loops. Watch out for tests that interact.
+
 - [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
 - [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](https://vimeo.com/68383352) [1:02:09]
 - [Todd Gardner - Case Studies in Terrible Testing](https://vimeo.com/144684986)  [35:46]
