@@ -43,6 +43,8 @@ Takeaway: Let 1000 flowers bloom then rip up 999 of them. Have a common build sy
 Takeaway: When exploring a large code base use code coverage tool to work out the minimum set of code that is actually run when you do something. Aim to remove incidental complexity then run on a more complex scenario incrementally to understand more. 
 
 - [Rebecca Sliter - A Tale of Two Feature Flags](https://www.youtube.com/watch?v=rBBLMmr9e-k) [29:34]
+Takeaway: Feature flags are not always good - especially when not sure how dependencies scale. Grow exponentially in complexity when you have more than 1 for testing. Feature flags can bleed into unit tests which is bad, removing flags means tests break. Unattended flags are tech debt. Add deadline and maintainer fields to feature flags. When past the deadline automatically branch code, change the config file and cc in the maintainer in the commit/PR.
+
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
 - [John Hyland - Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
 
