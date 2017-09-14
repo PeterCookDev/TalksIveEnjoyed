@@ -7,7 +7,10 @@
 - [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
 - [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
+
 - [Michael Feathers - Beyond Error Handling](https://vimeo.com/99668845)  [46:09]
+Takeaway: Pervasive error logging gets in the way of reading code. Validate everything upfront and then don't have to do error checking internally. Null checking everywhere is a smell of no trust in private APIs. Avoid exceptions caught way down the call stack where the state is left inconsistent. Want to be able to get back to a state before starting to do the work. If can check in an advance - don't use exceptions. If can't check and you care as its across a system boundary - then use exceptions.
+
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
 - [Greg Young - Unleash your Domain](https://vimeo.com/19428577)  [54:43]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
