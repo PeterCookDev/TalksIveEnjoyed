@@ -16,7 +16,10 @@ Takeaway: Optimise the building for the deletion of code. Microservices shouldn'
 
 - [Greg Young - Unleash your Domain](https://vimeo.com/19428577)  [54:43]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
+
 - [Greg Young - Stop Over-Engineering](https://www.youtube.com/watch?v=GRr4xeMn1uU) [47:25]
+Takeaway: Best solution is to not solve a problem. Deliver value not frameworks. Start with the simple happy path and how do I know I am still in it? Then focus on the similarity of the other paths. Iterate. Leave the really complicated bits out as they are probably very rarely used - use manual intervention instead. Don't focus on everything that can go wrong - focus on how you know you are still right. Software is either to save money or make money - know which it is.
+
 - [Katrina Owen - Here Be Dragons](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Katrina Owen - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)  [26:04]
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
