@@ -70,6 +70,8 @@ Takeaway: Biggest form of waste is features that are not used (50+%). Aim to opt
 
 - [Jez Humble - Stop Hiring Devops Experts and Start Growing them](https://www.youtube.com/watch?v=6m9nCtyn6kE)  [1:37:44]
 - [Jez Humble - Adopting Continuous Delivery](https://vimeo.com/68320415)  [47:22]
+Takeaway: Hypothesis driven development - smallest amount of work possible to deliver the hypothesis to audience. Keep the system releasable over delivering features. Make the constaint how fast you can analyse the data not how fast you gather it. Continuous Integration is not running jenkins over your feature branches.
+
 - [Jez Humble - (Re-)architecting for Continuous Delivery](https://vimeo.com/68226813)  [1:00:33]
 - [Jez Humble - DevOps Culture and Practices To Create Flow](https://www.youtube.com/watch?v=oX8af9kLhlk)  [45:38]
 - [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212) [1:01:46]
