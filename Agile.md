@@ -65,6 +65,7 @@ Takeaway: Code coverage of 0 means you aren't testing, 100% means you really car
 ## Devops
 
 - [Roy Osherove - Beautiful Builds](https://vimeo.com/97516289)   [56:36]
+
 - [Jez Humble - Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw)  [46:59]
 Takeaway: Biggest form of waste is features that are not used (50+%). Aim to optimise for how long to deploy a single line of code to production. Optimise for mean time to restore service rather than no downtime. Test configuration and environmental changes as rigorously as source code. Do side by side release of web services where possible. Database release - batch them up and make sure the running system can work with old and new schemas. Don't build CI in a completely separate CI project.
 
@@ -74,7 +75,10 @@ Takeaway: Hypothesis driven development - smallest amount of work possible to de
 
 - [Jez Humble - (Re-)architecting for Continuous Delivery](https://vimeo.com/68226813)  [1:00:33]
 - [Jez Humble - DevOps Culture and Practices To Create Flow](https://www.youtube.com/watch?v=oX8af9kLhlk)  [45:38]
+
 - [Neal Ford - Continuous Delivery for Architects](https://vimeo.com/105751212) [1:01:46]
+Takeaway: Fast automated feedback on the production readiness of your app whenever you change infrastructure, code or config. Each stage in the deployment pipeline is an opportunity for feedback. Diamond dependencies - when dependencies of dependencies are different. Prefer choreography to orchestration of services (no 3rd parties such as ESB). Try consumer driven contracts.
+
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)  [48:01]
 - [Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)  [29:05]
 - [Damian Brady - .NET Deployment Strategies: the Good, the Bad, and the Ugly ](https://vimeo.com/171950824) [49:01]
