@@ -28,7 +28,10 @@ Takeaway: Path to mastery in programming is not well known. Tests are not a proo
 
 - [Hadi Hariri - Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
 - [Mark Seemann - Types + Properties = Software](https://vimeo.com/144800642)  [40:39]
+
 - [Ian Cooper - Not just layers! What can pipelines and events do for you?](https://vimeo.com/113584390)  [1:00:22]
+Takeaway: Pipes and Filters used when need to process or transform a stream of data. Each transformation/processing element in the pipeline is a filter. Can be pull based or push based. Can be distributed using messaging channel between filters. Error handling is hard. Different to chain of responsibility as the filters do not execute their successors directly - the pipeline does it.
+
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
 - [James Pearce, Ben Ogle Ben Hamilton - Building an IDE that Scales](https://www.youtube.com/watch?v=WI_Q3PuqAiE) [35:51]
 - [Peter Seibel - Engineering Effectiveness at Twitter](https://www.youtube.com/watch?v=8IyXcLFO9ns) [27:52]
