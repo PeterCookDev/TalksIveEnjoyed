@@ -12,6 +12,8 @@
 Takeaway: Pervasive error logging gets in the way of reading code. Validate everything upfront and then don't have to do error checking internally. Null checking everywhere is a smell of no trust in private APIs. Avoid exceptions caught way down the call stack where the state is left inconsistent. Want to be able to get back to a state before starting to do the work. If can check in an advance - don't use exceptions. If can't check and you care as its across a system boundary - then use exceptions.
 
 - [Greg Young - The art of destroying software](https://vimeo.com/108441214)  [42:30]
+Takeaway: Optimise the building for the deletion of code. Microservices shouldn't need refactoring, they should be disposable. Refactoring should either change tests or the code but not both. Plan to rebuild rather than adapt to change.
+
 - [Greg Young - Unleash your Domain](https://vimeo.com/19428577)  [54:43]
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
 - [Greg Young - Stop Over-Engineering](https://www.youtube.com/watch?v=GRr4xeMn1uU) [47:25]
