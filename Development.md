@@ -37,6 +37,7 @@ Takeaway: Stop rewriting stuff. Stop adding new frameworks just for the sake of 
 
 - [James Pearce, Ben Ogle Ben Hamilton - Building an IDE that Scales](https://www.youtube.com/watch?v=WI_Q3PuqAiE) [35:51]
 - [Peter Seibel - Engineering Effectiveness at Twitter](https://www.youtube.com/watch?v=8IyXcLFO9ns) [27:52]
+Takeaway: Let 1000 flowers bloom then rip up 999 of them. Have a common build system. Aim for 10x offices not 10x engineers. We don't know how to improve engineering effectiveness. Save 5 mins a day for all engineers = 1% gain for the whole organisation. Let people build lots of stuff, see what works, kill the rest.
 
 - [Alan Shreve - Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg)  [17:17]
 Takeaway: When exploring a large code base use code coverage tool to work out the minimum set of code that is actually run when you do something. Aim to remove incidental complexity then run on a more complex scenario incrementally to understand more. 
