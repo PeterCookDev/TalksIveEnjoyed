@@ -22,7 +22,10 @@ Takeaway: Best solution is to not solve a problem. Deliver value not frameworks.
 
 - [Katrina Owen - Here Be Dragons](https://www.youtube.com/watch?v=HsWLrSof-ns) [43:42]
 - [Katrina Owen - Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)  [26:04]
+
 - [Katrina Owen - Overkill](https://www.youtube.com/watch?v=qLpvc5r6Bb0)  [32:43]
+Takeaway: Path to mastery in programming is not well known. Tests are not a proof of your code, they only tell you when you are wrong. Name things by the domain concept - Yell rather than allCaps.
+
 - [Hadi Hariri - Refactoring to Functional](https://vimeo.com/111506976)  [45:00]
 - [Mark Seemann - Types + Properties = Software](https://vimeo.com/144800642)  [40:39]
 - [Ian Cooper - Not just layers! What can pipelines and events do for you?](https://vimeo.com/113584390)  [1:00:22]
