@@ -33,6 +33,8 @@ Takeaway: Path to mastery in programming is not well known. Tests are not a proo
 Takeaway: Pipes and Filters used when need to process or transform a stream of data. Each transformation/processing element in the pipeline is a filter. Can be pull based or push based. Can be distributed using messaging channel between filters. Error handling is hard. Different to chain of responsibility as the filters do not execute their successors directly - the pipeline does it.
 
 - [Karoline Klever - What is the actual life expectancy of your code?](https://vimeo.com/142347209) [52:24]
+Takeaway: Stop rewriting stuff. Stop adding new frameworks just for the sake of it. Remove dead code and unreachable code. Leave alone legacy code. Legacy = more expensive to maintain than rewriting it
+
 - [James Pearce, Ben Ogle Ben Hamilton - Building an IDE that Scales](https://www.youtube.com/watch?v=WI_Q3PuqAiE) [35:51]
 - [Peter Seibel - Engineering Effectiveness at Twitter](https://www.youtube.com/watch?v=8IyXcLFO9ns) [27:52]
 
