@@ -118,7 +118,10 @@ Takeaway: 4 part approach to working and evaluating technical debt based around 
 - [Dr. Jim Webber - A Little Graph Theory for the Busy Developer](https://www.youtube.com/watch?v=9Gcjkoaa0ZI)  [51:28]
 - [Carina C.Zona - Consequences of and insightful algorithm](https://vimeo.com/137770918)  [39:34]
 - [Adam Tornhill - Mine Social Metrics from Source Code Repositories](https://vimeo.com/144670188)  [35:57]
+
 - [Adam Tornhill - Seven Secrets of Maintainable Codebases](https://www.youtube.com/watch?v=0oDporwhToQ) [39:17]
+Takeaway: Source control systems hold behavioural data. Need to prioritise tech debt in terms of how often its changed and how often its used. Use LOC (general measure of complexity) and degree of change/change frequency to find hotspots in the codebase. Look for temporal coupling (files committed together regularly) with no obvious explanation - may be copy and pasted code. The number of developers behind a piece of is best indicator of quality problems.
+
 - [Eva Nahari - NLP: Something Old, Something New...](https://www.youtube.com/watch?v=InayOc_Dpyg)  [49:48]
 
 \* *Disclaimer* - I know this speaker personally.
