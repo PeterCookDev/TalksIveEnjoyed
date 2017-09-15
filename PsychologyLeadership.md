@@ -41,7 +41,9 @@ Takeaway: Goals need to push you - write them down. Networking is really importa
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
 - [Kinsey Ann Durham - Code, Culture and the Pursuit of Happiness](https://www.youtube.com/watch?v=O98rt9Z11LU)  [24:29]
 - [Kate Heddleston - Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) [30:12]
+
 - [Pamela Vickers - Your Company Culture is "Awesome"](https://www.youtube.com/watch?v=W-gzcfFIv9o) [28:26]
+Takeaway: Removing perks will highlight the strengths and weaknesses of the culture. PERMA model - positive emotion, engagement, relationship, meaning, achievement. Shape culture deliberately.
 
 - [Adam Cuppy - Cult(ure)](https://www.youtube.com/watch?v=ChVSV9vCs4Y) [32:40]
 Takeaway: Cult vs culture mentality within organisations. 90% of people follow certainty (change is something I understand or things today will be the same) and significance (we are important to something or someone). Startups can operate like cults - valuing compliance and instituting hierarchy with the customer at the bottom. Leadership's purpose is to empower other people to work better to serve the customer need. I need to help you win, because then everyone wins. Inclusion begins when you stop using phrases like 'Think like a woman' and start asking 'What does Karen need?'
