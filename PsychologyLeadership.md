@@ -54,6 +54,7 @@ Takeaway: Validity - tests a known construct. Reliability - how closely grouped 
 - [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0) [40:56]
 
 - [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
+Takeaway: Hire for shared values. Reward the right behaviours - the how is just as important as the what. Be transparent in processes and choices - make sure it is accessible, make sure people feel they were part of the process. Distribute the responsibility of owning the culture to everyone.
 
 - [Oren Ellenbogen - Building happier engineering teams ](https://vimeo.com/139906437)  [28:22]
 
