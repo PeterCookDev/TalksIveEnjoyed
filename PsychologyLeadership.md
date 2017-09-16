@@ -66,6 +66,8 @@ Takeaway: Don't lie to candidates. Find out what they don't like and be honest i
 Takeaway: In a power based situation, the quality of the relationship is owned by the person with the power. Much of what we do as developers is not coding - we should test for those things in the interview. Remove conclusions in feedback you can't support with evidence. Remember interviewing is stressful and people are doing their best. Interviewer needs to be good at time management.
 
 - [Richard Sheridan - Build a Workplace People Love - Just add Joy](https://vimeo.com/144370269)  [01:14:11]
+Takeaway: Embrace learning - Books are like potato chips - they should be everywhere! Everyone in building turns up to standup. Get your customer to talk throught the story cards at show and tell, it means you can see if the work is correct, really quickly. Paper based planning scheme - size of paper story = time to do the work. Each sprint only has the stories that fit on that bit of paper.
+
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 - [Adel Smee - What I Learned About Hiring...](https://www.youtube.com/watch?v=TRJC-HXHkrQ) [22:54]
