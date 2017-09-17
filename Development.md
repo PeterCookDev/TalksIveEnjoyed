@@ -15,6 +15,8 @@ Takeaway: Pervasive error logging gets in the way of reading code. Validate ever
 Takeaway: Optimise the building for the deletion of code. Microservices shouldn't need refactoring, they should be disposable. Refactoring should either change tests or the code but not both. Plan to rebuild rather than adapt to change.
 
 - [Greg Young - Unleash your Domain](https://vimeo.com/19428577)  [54:43]
+Takeaway: Domain models are not the same as the storage schema. Model state transitions into events. Events are always in the past tense as they have happened. Undo events by compensating events. Command Query separation - A single model cannot be appropriate to reporting, searching and transactional behaviours. Reads happen more than writes, optimise for reads. The domain model is read only.
+
 - [Greg Young - 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)  [45:20]
 
 - [Greg Young - Stop Over-Engineering](https://www.youtube.com/watch?v=GRr4xeMn1uU) [47:25]
