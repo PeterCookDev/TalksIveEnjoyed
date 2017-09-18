@@ -58,7 +58,10 @@ Takeaway: Maybe 1 in 5 tests should have mocks. Should have lots of stubs not mo
 Takeaway: Code coverage of 0 means you aren't testing, 100% means you really care that you hit 100% but your code could still be bad. Tests might just test how good you are at setting up mocks. Fast to fix is almost as good as never broken. Test what breaks. Test the scariest thing first. Monitoring can sometimes be a substitute for tests.
 
 - [Joe Colantonio - The Test Automation Playbook : Succeeding with Automation Awesomeness](https://vimeo.com/144831370) [32:37]
+
 - [Jimmy Bogard - 8 Simple TDD Rules](https://vimeo.com/111091466)  [41:24]
+Takeaway: Add in testing seams, and interfaces when you have multiple implementations only. Don't mock your friends - create testing seams only for the uncontrollable. Use the container for tests - use nested or child containers where you need to swap out instances. Use isolation over faking. Try in memory databases. Test item creation not counts. If your tests aren't helping you ship, stop testing. Allow your approach to change with the context.
+
 - [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
 - [Matt Wynne - Beyond BDD](https://vimeo.com/143941147) [34:32]
 
