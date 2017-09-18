@@ -28,7 +28,10 @@ Takeaway: Goals need to push you - write them down. Networking is really importa
 - [Sven Peters - Coding Culture](https://www.youtube.com/watch?v=l2bxzCTlvMs) [1:00:48]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
 - [Shawn Rider - Work is Not a Dare: Tips for Building Inclusive Teams](https://www.youtube.com/watch?v=OdHH5KWGTNo) [37:26]
+
 - [Kim Scott - Superstars vs Rock Stars: Inspire Your Team to Do The Best Work of Their Lives](https://www.youtube.com/watch?v=3oChxm4eUbM) [21:46]
+Takeaway: Rock stars just rock at what they are doing. Superstars change the world. Not all awesome people want to change the world. Use the rock stars to help people who are good become awesome.  Superstars have a higher growth trajectory but usually leave your organisation quicker. Great model for working with varying growth and performance individuals. Give fair ratings -  reward rock stars as well as super stars.
+
 - [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg) [28:39]
 - [Erika Carlson - Better: Fearless Feedback for Software Teams](https://www.youtube.com/watch?v=RsfNS9HSWQs)  [32:14]
 - [Panayiotis Thomakos - Developer Productivity Engineering](https://www.youtube.com/watch?v=mL6kOPxuQTI) [10:31] 
