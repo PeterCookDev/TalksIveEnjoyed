@@ -83,7 +83,9 @@ Takeaway: Hypothesis driven development - smallest amount of work possible to de
 Takeaway: Fast automated feedback on the production readiness of your app whenever you change infrastructure, code or config. Each stage in the deployment pipeline is an opportunity for feedback. Diamond dependencies - when dependencies of dependencies are different. Prefer choreography to orchestration of services (no 3rd parties such as ESB). Try consumer driven contracts.
 
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)  [48:01]
+
 - [Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)  [29:05]
+
 - [Damian Brady - .NET Deployment Strategies: the Good, the Bad, and the Ugly ](https://vimeo.com/171950824) [49:01]
 
 ## Tools
@@ -93,17 +95,24 @@ Takeaway: Fast automated feedback on the production readiness of your app whenev
 - [Alex Gaynor - The cobbler's children have no shoes, or building better tools for ourselves](https://www.youtube.com/watch?v=gRFHvavxnos) [29:51]
 
 ## Technical Writing
+
 - [Daniel D. Beck - Write the Readable README ](https://www.youtube.com/watch?v=2dAK42B7qtw) [22:49]
+
 - [Tracy Osborn - Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
 Takeaway: A lot of documentation is written at the level of the writer not the intended audience. Teach - don't tell. Add really short examples, get them to the success moment as early as possibly.
 
 - [Allison Moore - So You Need to Document an API? ](https://www.youtube.com/watch?v=KSXL-BDoGOw) [30:18]
+
 - [Birgitta Boeckeler - We're Agile, We Don't Do Documentation](https://www.youtube.com/watch?v=UvI3zlv5oUA) [26:03]
 Takeaway: Explains some of the reasons that documentation can be valuable, what to keep up to date and why its OK for not all documentation to be up to date. 
 
 - [Martin Gontovnikas - How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
+
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
+Takeaway: Write in plain text to tranlsate thoughts in purest form. Use questions to drive out sentences. Use a sentence per line - loses line breaks in markdown and is easier to diff. Draft in comments - todos, comments as you write etc. Visualise progress using the preview. Use source control to review changes. Read on a small screen away from your desk.
+
 - [A. Jesse Jiryu Davis - Write an Excellent Programming Blog](https://www.youtube.com/watch?v=eHXq-IzlGUE) [26:53]
+
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57] 
 Takeaway: Process of successive refinement for writing tutorials. Use concrete examples. Asking yourself - What does the reader know at this point in the tutorial?
 
