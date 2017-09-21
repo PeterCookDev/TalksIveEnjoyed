@@ -10,7 +10,6 @@
 - [Allison McMillan - BDD: Baby Driven Development](https://www.youtube.com/watch?v=nZHTg3Hza1U)  [35:39]
 - [Ernie Miller - Humane Development](https://www.youtube.com/watch?v=-ZLYxLjwNWo)  [41:45]
 - [Dan North - Beyond Developer](https://vimeo.com/139910835)  [26:52]
-- [Alex Gaynor - Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) [28:08]
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
 - [Simon Brown - Visualise, Document & Explore your Software Architecture](https://www.youtube.com/watch?v=0o9_zjZeJuE) [38:17]
 Takeaway: C4 approach to visualising architecture.  Documentation often doesn't explain intent or why we do things.  Writing architecture documentation as a guide book - what to look at, maps, culture, history, what is important to understand.

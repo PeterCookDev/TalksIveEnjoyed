@@ -120,4 +120,7 @@ Takeaway: Process of successive refinement for writing tutorials. Use concrete e
 - [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
 Takeaway: Make it fail. Simplify by ruling out whats not involved.  Form a hypothesis. Separate facts from interpretation - keep a list of facts. Divide and conquer. One change at a time. Keep an audit trail of what you've tried and what it did. If you didn't fix it, it ain't fixed. How to use git bisect for working out when a bug was introduced.
 
+- [Alex Gaynor - Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) [28:08]
+Takeaway: Hard problems - timing or ordering dependent, cross module/library boundaries. Everything is in scope to be the cause (though unlikely to be the compiler). Read all the source. Trust nothing - verify everything. Use OS tracing, logging, debugger, IDE (its all about reading code), Grep, domain specific tools, instrumentation. Pair debug. Complex systems rarely break with a single cause.
+
 \* *Disclaimer* - I know this speaker personally.
