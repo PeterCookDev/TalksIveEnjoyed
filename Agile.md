@@ -10,7 +10,6 @@ Takeaway: Good software is designed around real pain that is pain now. I don't l
 - [Greg Young - How to get productive in a project in 24h](https://www.youtube.com/watch?v=KaLROwp-VDY)  [59:27]
 Takeaway: Data mine source control to see how changes to files occur over time. Use NDepend to gather metrics such as afferent and efferent coupling. Metrics are things to look at, not rules which must be upheld.
 
-- [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
 - [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 - [Dan North - Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
@@ -115,5 +114,10 @@ Takeaway: Write in plain text to tranlsate thoughts in purest form. Use question
 
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57] 
 Takeaway: Process of successive refinement for writing tutorials. Use concrete examples. Asking yourself - What does the reader know at this point in the tutorial?
+
+## Debugging
+
+- [Danielle Sucher - Debugging the Science of Deduction](https://vimeo.com/111108891)  [34:47]
+Takeaway: Make it fail. Simplify by ruling out whats not involved.  Form a hypothesis. Separate facts from interpretation - keep a list of facts. Divide and conquer. One change at a time. Keep an audit trail of what you've tried and what it did. If you didn't fix it, it ain't fixed. How to use git bisect for working out when a bug was introduced.
 
 \* *Disclaimer* - I know this speaker personally.
