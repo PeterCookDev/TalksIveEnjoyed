@@ -11,12 +11,19 @@ Takeaway: Good software is designed around real pain that is pain now. I don't l
 Takeaway: Data mine source control to see how changes to files occur over time. Use NDepend to gather metrics such as afferent and efferent coupling. Metrics are things to look at, not rules which must be upheld.
 
 - [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
+
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
+
 - [Dan North - Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)  [31:25]
+
 - [Liz Keogh - An Introduction to Cynefin and related awesome thinking tools](https://vimeo.com/144981699)  [44:40]
+
 - [Troy Magennis - Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching](https://vimeo.com/144824390)  [41:17]
+
 - [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
+
 - [Doc Norton - Velocity is not the goal](https://vimeo.com/97505655) [1:00:25]
+Takeaway: Goodharts Law - "When a measure becomes a target, it ceases to be a good measure." can lead to paying people for the wrong behaviour. How you get there is more important than getting there. The Hawthorn Effect - when you say are you watching something it will improve. Velocity vs code complexity - as code becomes more complex the slower the team becomes. Measure many things - scorecards, velocity, code quality, avg hours applied to the project, team joy in the pre commit hook - 0 (I hate this code) - 5 (this code is so awesome it should be open sourced). Metrics are not for managers, they are for the team.
 
 - [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448)  [25:29]
 Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams for breadth first discussions. Use de Bono's thinking hats. Presence of leaders can influence decision making as people don't want to disagree with their leaders. 
