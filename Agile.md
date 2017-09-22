@@ -113,6 +113,7 @@ Takeaway: A lot of documentation is written at the level of the writer not the i
 Takeaway: Explains some of the reasons that documentation can be valuable, what to keep up to date and why its OK for not all documentation to be up to date. 
 
 - [Martin Gontovnikas - How to Create Good Documentation](https://www.youtube.com/watch?v=lw9R2qMCdqk)  [34:31]
+Takeaway: Writing documentation for developers - specifically API documentation. Developers don't like prose - we like code snippets you can copy and paste. Use the documentation site to automatically configure the downloads of code to include any configuration for the user. People get your documentation from everywhere - use markdown on Github and markdocs. Have a complete GitHub readme. Things should be easy to find - couple of clicks to find information. Use numbered steps, be concise include a lot of code.
 
 - [Dan Allen - 7 Ways to Hack Your Brain to Write Fluently](https://www.youtube.com/watch?v=r6RXRi5pBXg)  [49:15]
 Takeaway: Write in plain text to tranlsate thoughts in purest form. Use questions to drive out sentences. Use a sentence per line - loses line breaks in markdown and is easier to diff. Draft in comments - todos, comments as you write etc. Visualise progress using the preview. Use source control to review changes. Read on a small screen away from your desk.
