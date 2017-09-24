@@ -119,6 +119,7 @@ Takeaway: Writing documentation for developers - specifically API documentation.
 Takeaway: Write in plain text to tranlsate thoughts in purest form. Use questions to drive out sentences. Use a sentence per line - loses line breaks in markdown and is easier to diff. Draft in comments - todos, comments as you write etc. Visualise progress using the preview. Use source control to review changes. Read on a small screen away from your desk.
 
 - [A. Jesse Jiryu Davis - Write an Excellent Programming Blog](https://www.youtube.com/watch?v=eHXq-IzlGUE) [26:53]
+Takeaway: Writing is super powered thinking. Write essays rather than blog posts - they last longer and not obliged to write constantly. Write short things - 3 paragraph book review. 
 
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57] 
 Takeaway: Process of successive refinement for writing tutorials. Use concrete examples. Asking yourself - What does the reader know at this point in the tutorial?
