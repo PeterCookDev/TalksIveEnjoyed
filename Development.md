@@ -90,11 +90,18 @@ Takeaway: 4 part approach to working and evaluating technical debt based around 
 ## Microservices, SOA, APIs etc
 
 - [Martin Fowler - Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) [26:52]
+
 - [Sam Newman - The Practical Implications Of Microservices](https://vimeo.com/99531595)  [56:10]
+
 - [Sam Newman - Testing and Deploying Microservices](https://vimeo.com/100930174)  [1:03:14]
+Takeaway: Independent releasing of microservices - Not a free lunch - complexity increases and testing becomes harder. In tests - use service stubs for downstream dependencies (though it can be painful). Run fake integration tests in production (semantic monitoring). 
+
 - [Damian Brady - The Power of a Great API - The case for writing API first applications](http://tv.ssw.com/6384/the-power-of-a-great-api-the-case-for-writing-api-first-applications-damian-brady-at-ddd-melbourne-2015) [45:02]
+
 - [Fred George - MicroServices: Lessons from 3 Companies](https://vimeo.com/111627195)  [33:05]
+
 - [Darrel Miller - Crafting Evolvable Web API Representations](https://vimeo.com/131643022)  [1:03:19]
+
 - [Mike Amundsen - Learning Client Hypermedia from the Ground Up](https://vimeo.com/131642790)  [54:06]
 
 ## Performance and Scalability
