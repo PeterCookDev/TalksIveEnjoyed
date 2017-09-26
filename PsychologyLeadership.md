@@ -3,12 +3,20 @@
 ## Career Skills and IT Culture
 
 - [Jurgen Appelo - The 7 Duties of Great Software Professionals](https://vimeo.com/99516367)  [1:02:27]
+
 - [Kathy Sierra - Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)  [23:03]
+
 - [James Mickens - It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997)  [31:31]
+
 - [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
+
 - [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
+
 - [Allison McMillan - BDD: Baby Driven Development](https://www.youtube.com/watch?v=nZHTg3Hza1U)  [35:39]
+
 - [Ernie Miller - Humane Development](https://www.youtube.com/watch?v=-ZLYxLjwNWo)  [41:45]
+Takeaway: Explain why you are doing something and why it is important. And enforced deadline shows that the deadline is more important than building the right product. Don't do crunch mode. Hero programmers are morphine for the organisation, they stop it feeling the pain of its bad processes. Don't communicate out of hours or to people who are on holiday (or while you are on holiday).
+
 - [Dan North - Beyond Developer](https://vimeo.com/139910835)  [26:52]
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
 - [Simon Brown - Visualise, Document & Explore your Software Architecture](https://www.youtube.com/watch?v=0o9_zjZeJuE) [38:17]
