@@ -48,7 +48,9 @@ Takeaway: When exploring a large code base use code coverage tool to work out th
 Takeaway: Feature flags are not always good - especially when not sure how dependencies scale. Grow exponentially in complexity when you have more than 1 for testing. Feature flags can bleed into unit tests which is bad, removing flags means tests break. Unattended flags are tech debt. Add deadline and maintainer fields to feature flags. When past the deadline automatically branch code, change the config file and cc in the maintainer in the commit/PR.
 
 - [Vaidehi Joshi - A Machine State of Mind](https://www.youtube.com/watch?v=N1jnoPxBGGA) [24:54]
+
 - [John Hyland - Be Awesome By Being Boring](https://www.youtube.com/watch?v=Iheymi5QFEY) [25:34]
+Takeaway: Standard is better than better - easy to hire for, stable, easy to google. New tech changes - there may not be tooling, standard usage patterns, more bugs, security wildcard. You need a really good reason to use something shiny. When using shiny - roll out slowly incrementally with a rollback plan in place. Use it for whats meant for. Problems don't add up they multiply - so don't use multiple new techs at once. Non standard technology choices are enormously expensive - you pay for the choice, for the lifetime of the system.
 
 - [Bryan Helmkamp -  Code Quality Lessons Learned](https://www.youtube.com/watch?v=vcH0RBe4Eew) [30:21]
 Takeaway: Measuring code complexity with cyclomatic complexity, ABC and LOC. Old code harder to maintan - code matched domain understanding when written, business then diverged. Omega mess - code only has inbound dependencies and doesn't change.
