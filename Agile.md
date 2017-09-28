@@ -97,8 +97,11 @@ Takeaway: Fast automated feedback on the production readiness of your app whenev
 ## Tools
 
 - [Tim Berglund - Git from the bits up](https://www.youtube.com/watch?v=MYP56QJpDr4)  [55:44]
+
 - [The Motivation for a Monolithic Codebase Why Google Stores Billions of Lines of Code in  a single repository](https://www.youtube.com/watch?v=W71BTkUbdqE)  [30:49]
+
 - [Alex Gaynor - The cobbler's children have no shoes, or building better tools for ourselves](https://www.youtube.com/watch?v=gRFHvavxnos) [29:51]
+Takeaway: We build big frameworks, but we don't build little tools for ourselves. Implement processes by a computer rather than by hand as it means no ambiguity in what the process is or does as its code. Examples of using github3 api in python.
 
 ## Technical Writing
 
