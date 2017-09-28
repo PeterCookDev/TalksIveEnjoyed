@@ -26,7 +26,10 @@ Takeaway: C4 approach to visualising architecture.  Documentation often doesn't 
 Takeaway: Goals need to push you - write them down. Networking is really important. Learn how to say no. Surround yourself with people who want more. Set goals with your kids.
 
 - [Maria Khalusova - How to stop wasting your time and start performing useful code reviews](https://www.youtube.com/watch?v=VRnMzMpSeag)  [45:13]
+
 - [Ross Tuck - Things I Believe Now That I'm Old](https://www.youtube.com/watch?v=ZBiexI2mv-k) [43:34]
+Takeaway: talk on giving and receiving advice. Consider the source. Consider the context of the advice - is it given from a similar situation? Put it into practice or it means nothing. Everything comes with a price. Meditate on the advice - we often move goalposts without thinking. Collect more advice - code reviews, sprint retros, 360 feedback. Make people feel safe.
+
 - [Martin Thompson - Engineering You!](https://www.youtube.com/watch?v=NaFiqCjexOs) [45:59]
 - [Kate Matsudaira - Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4)  [38:20] 
 - [Adam Dangoor - Another pair of eyes: Reviewing code well](https://www.youtube.com/watch?v=JWBBI-jFVOc) [25:08]
