@@ -50,6 +50,9 @@ Takeaway: Rock stars just rock at what they are doing. Superstars change the wor
 - [Randall Koutnik - Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs) [25:03]
 - [Paulette Luftig - Finding your edge through a culture of feedback](https://www.youtube.com/watch?v=J2IgDlCRBVM) [33:28]
 
+- [Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)  [29:05]
+Takeaway: Stop being a hero working long hours. Don't become a single point of failure - failures need to happen. Separate who you are from what you do. 6 areas relating to burnout - Overload of work, lack of control over work, insufficient rewards, workplace community problems, conflict between personal values and job, fairness. Track time doing activities. No single employees working on things.
+
 ## Recruitment, Culture, Onboarding and Hiring
 - [Austin Fonacier - Hacking Development Culture: Treating Developers As People](https://www.youtube.com/watch?v=z5zll50fRJA) [29:26]
 - [Kinsey Ann Durham - Code, Culture and the Pursuit of Happiness](https://www.youtube.com/watch?v=O98rt9Z11LU)  [24:29]

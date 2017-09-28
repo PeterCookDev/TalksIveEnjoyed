@@ -90,8 +90,6 @@ Takeaway: Fast automated feedback on the production readiness of your app whenev
 
 - [Rachel Laycock - Continuous Delivery: Tales from the Windowsland](https://www.youtube.com/watch?v=TpzRuUB9r9o)  [48:01]
 
-- [Jennifer Davis - From Hero to Zero](https://vimeo.com/104252736)  [29:05]
-
 - [Damian Brady - .NET Deployment Strategies: the Good, the Bad, and the Ugly ](https://vimeo.com/171950824) [49:01]
 
 ## Tools
