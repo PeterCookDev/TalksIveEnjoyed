@@ -61,6 +61,9 @@ Takeaway: Great example of cargo-culted code being refactored. Smells - noisy lo
 - [Jim Holmes - "OMG! This Codebase Sucks!" Paying Down Tech Debt While Delivering Value](https://www.youtube.com/watch?v=InCmGFSA3JM) [1:00:21]
 Takeaway: 4 part approach to working and evaluating technical debt based around the business value it offers. Evaluate where you are with all stakeholders present. Work out what the business goals are. Measure how bad it is in the code. Improve readability first. Keep using the same metrics when you come to fix things (and after). Everything in dealing with tech debt comes back to organisational culture.
 
+- [James Smith - Your Software is Broken Pay Attention](https://www.youtube.com/watch?v=F6g_Fx8qqCU) [36:50] 
+Takeaway: Rethink production monitoring - monitor for stability, performance and stability - 49% of engineering time is spent finding and fixing bugs. Add hooks to detect crashes, errors and issues in production. Don't just have a stream of events, group like issues together. Focus on the most harmful. Capture diagnostic info for the crash - url, parameters passed etc.
+
 ## .NET and `C#`
 
 - [Bart J.F. De Smet - Under the Hood of C# 6](https://vimeo.com/144630847)  [44:25]
