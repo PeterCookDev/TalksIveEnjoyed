@@ -78,13 +78,21 @@ Takeaway: Rethink production monitoring - monitor for stability, performance and
 ## Python
 
 - [Andrew Montalenti - NLTK and Text Procesing](https://vimeo.com/53062324)  [40:26]
+
 - [Lynn Cherny - Bestseller Analysis: Sex Scene Detection, Topics, and Pacing](https://vimeo.com/74075845)  [41:36]
+
 - Natural language processing in Python using NLTK [part 1](https://www.youtube.com/watch?v=AOU-Yw1qdJs) [part 2](https://www.youtube.com/watch?v=EuIzZMfHTCg) [part 3](https://www.youtube.com/watch?v=ncUIzVG2zzs)
+
 - [Mariano Anaya - Clean code in Python](https://www.youtube.com/watch?v=7ADbOHW1dTA) [21:44]
+
 - [Brett Slatkin - Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) [30:24]
+
 - [Stuart Williams - Python by Immersion](https://www.youtube.com/watch?v=RVNIdoepdzU) [3:00:40]
+
 - [Rachel Bunder - I wish I learnt that earlier! ](https://www.youtube.com/watch?v=cy5n6XAtA-w) [29:22]
 
+- [Nina Zakharenko - Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) [27:01] (yep - python)
+Takeaway: Reference counting and tracing approaches to garbage collection in python. Ref counting approach can't handle cyclical references so need tracing approach as well (mark and sweep). Has 3 generations of object like  the CLR. Ref counting is not thread safe. GIL - Global Interpreter Lock - only one thread can run in the interpreter at a time. This stops ref counts being changed concurrently. To use multiple CPUs have to use multiple processes not multiple threads. Each process has its own GIL (not all implementations have GIL).
 
 ## Web Development
 
