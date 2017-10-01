@@ -150,6 +150,9 @@ Takeaway: Honest open discussion about mental health in the developer community.
 - [Deb Nicholson - Say No, Like a Boss!](https://www.youtube.com/watch?v=zMn70y4kLnM) [28:50]
 Takeaway: Understand the total of sum of work you can actually do. Say no to ill defined work or too much work. Understand verbal self-defense and how people try to get you to do things.
 
+- [Laura Eck - The Not So Rational Programmer](https://www.youtube.com/watch?v=E-5VhMUYmVY)  [38:09] 
+Takeaway: Your brain is a legacy system. Error handling is pretty awful so is the documentation. Brain sacrifices accuracy for speed - due to survival. Brain uses cognitive biases to make faster decisions. Mere exposure effect - we like things purely because we have been exposed to them. False consensus effect - we believe people agree with us alot more than they do. Groupthink - groups try to avoid conflict by diluting their opinions.
+
 
 ## Coaching
 
