@@ -94,6 +94,9 @@ Takeaway: Rethink production monitoring - monitor for stability, performance and
 - [Nina Zakharenko - Memory Management in Python - The Basics](https://www.youtube.com/watch?v=F6u5rhUQ6dU) [27:01] (yep - python)
 Takeaway: Reference counting and tracing approaches to garbage collection in python. Ref counting approach can't handle cyclical references so need tracing approach as well (mark and sweep). Has 3 generations of object like  the CLR. Ref counting is not thread safe. GIL - Global Interpreter Lock - only one thread can run in the interpreter at a time. This stops ref counts being changed concurrently. To use multiple CPUs have to use multiple processes not multiple threads. Each process has its own GIL (not all implementations have GIL).
 
+- [Amjith Ramanujam - Awesome Command Line Tools](https://www.youtube.com/watch?v=hJhZhLg3obk) [28:41]
+Takeaway: Good introduction to prompt-toolkit library for building commandline tools.  Supports things like persistent history across sessions, auto completion, syntax highlighting etc. Whenever you add a configuration option to a program, your program is too stupid to know what is best for the user.
+
 ## Web Development
 
 - [Walter Rumsby - Walter Rumsby on Javascript Testing](https://www.youtube.com/watch?v=TsUdM9UnnL0)  [43:53]
