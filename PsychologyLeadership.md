@@ -31,8 +31,10 @@ Takeaway: Goals need to push you - write them down. Networking is really importa
 Takeaway: talk on giving and receiving advice. Consider the source. Consider the context of the advice - is it given from a similar situation? Put it into practice or it means nothing. Everything comes with a price. Meditate on the advice - we often move goalposts without thinking. Collect more advice - code reviews, sprint retros, 360 feedback. Make people feel safe.
 
 - [Martin Thompson - Engineering You!](https://www.youtube.com/watch?v=NaFiqCjexOs) [45:59]
-- [Kate Matsudaira - Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4)  [38:20] 
-- [Adam Dangoor - Another pair of eyes: Reviewing code well](https://www.youtube.com/watch?v=JWBBI-jFVOc) [25:08]
+
+- [Kate Matsudaira - Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4)  [38:20]
+Takeaway: What would your replacement have that you don't? Use if-then statements to compensate for roadblocks in your goals. You need to let your manager know what you do. Get better at managing your time. Be ready to receiving feedback - Don't be defensive - they don't want an explanation. Nobody cares how much you know, until they know how much you care.
+
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
 - [Sven Peters - How to do Kickass Software Development](https://vimeo.com/70102926) [59:08]
 - [Sven Peters - Coding Culture](https://www.youtube.com/watch?v=l2bxzCTlvMs) [1:00:48]
