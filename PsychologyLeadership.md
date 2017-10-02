@@ -36,6 +36,8 @@ Takeaway: talk on giving and receiving advice. Consider the source. Consider the
 Takeaway: What would your replacement have that you don't? Use if-then statements to compensate for roadblocks in your goals. You need to let your manager know what you do. Get better at managing your time. Be ready to receiving feedback - Don't be defensive - they don't want an explanation. Nobody cares how much you know, until they know how much you care.
 
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
+Takeaway: As a manager - Availability bias - the more skilled you are in an area, the more you value it. Skills stop being your bottleneck, time becomes your bottleneck or focus does. 3 virtues of a programmer. Laziness - Train people to be your replacement - train more than one. Hubris - find problems but bring the fix. Impatience - anticipate change, focus people on the most important work. Know when to say  "this work is not important and we should not work on it now." What does success look like? Impact (per unit in, what comes out), influence (authority from showing you know what you are doing) and qualitatative feedback. Ask what do I do that you like? What do I do that makes you less effective? 
+
 - [Sven Peters - How to do Kickass Software Development](https://vimeo.com/70102926) [59:08]
 - [Sven Peters - Coding Culture](https://www.youtube.com/watch?v=l2bxzCTlvMs) [1:00:48]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
