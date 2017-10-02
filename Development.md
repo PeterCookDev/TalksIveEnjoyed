@@ -3,7 +3,10 @@
 ## Design Principles and General Development
 
 - [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)  [1:03:03]
+
 - [Jimmy Bogard - Solid Architecture in Slices not Layers](https://vimeo.com/131633177)  [55:34]
+Takeaway: There is an assumption lots of layers will produce a good system. If repository methods live together but don't change together then they should be split into mulitple classes - 1 for commands, 1 for queries. First step to sanity is to collapse the layers. Make responses specific to requests. Build specific queries that do all the joins to handle child objects/navigable properties. Validate requests rather than whole entities, can then handle situations where historical data is now considered bad. Organise code by feature not layer. Everything in a namespace relates to a single feature.
+
 - [Venkat Subramaniam - The Power and Practicalities of Immutability](https://vimeo.com/131635253)  [1:10:50]
 - [Venkat Subramaniam - The Art of Simplicity](https://www.youtube.com/watch?v=-ZPgO5USBoI)  [1:22:32]
 - [Sandi Metz - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)  [38:46]
