@@ -8,6 +8,7 @@
 - [James Mickens - It Was Never Going to Work, So Let’s Have Some Tea](https://vimeo.com/146524997)  [31:31]
 
 - [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
+Takeaway: Effect of adding someone to the team is not linear, it could even be negative. The Ringlemann effect - as group size increases, need for coordination goes up and individual effort goes down. Relational skills - skills to establish, maintain and develop relationships. Have a positive view of humanity. 3 forms of communication - dialog (lots of questions, win/win), discussion (verbal fight, few questions) and debate (verbal dog fight). 2 forms of listening - correction listening and intention listening. For feedback to have a positive effect, must have a positive relationship with the person.
 
 - [Hadi Hariri - Developers: The Prima Donnas of the 21st Century](https://vimeo.com/52670824)  [57:36]
 
