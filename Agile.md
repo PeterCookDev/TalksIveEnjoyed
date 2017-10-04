@@ -11,6 +11,7 @@ Takeaway: Good software is designed around real pain that is pain now. I don't l
 Takeaway: Data mine source control to see how changes to files occur over time. Use NDepend to gather metrics such as afferent and efferent coupling. Metrics are things to look at, not rules which must be upheld.
 
 - [Christina Wodtke - The Executioner's Tale](https://vimeo.com/86392023)  [21:36]
+Takeaway: Ideas are cheap, execution is everything. OKRs - Objectives and Key Results. Objective = dream (qualitative), Key Result = success criteria (quantitative). Need to have regular checkins with the team. Have 3 priorities for the week. What is the confidence in the quarterly OKRS. What are the projects in the next 4 weeks. What are your measures of organisational health? Are you pushing people too hard? Celebrate every Friday - everyone needs bragging time.
 
 - [Kris Gale - Why Yammer believes the traditional engineering organizational structure is dead wrong](https://www.youtube.com/watch?v=RsWZNaaic1k)  [21:32]
 
