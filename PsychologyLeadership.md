@@ -3,7 +3,10 @@
 ## Psychology, Culture, Productivity and Leadership
 
 - [Janet Crawford - The surprising neuroscience of gender inequality](http://www.webstock.org.nz/talks/the-surprising-neuroscience-of-gender-inequality-2/)  [33:20]
+
 - [Denise R Jacobs - Banish your inner critic](https://vimeo.com/channels/ndc2014/97318800)  [52:39]
+Takeaway: Eliminate should/must/ought/have to - Banish slave words. Remember things that you have made that are big, and that you are proud of. What screws us up most in life, is the picture in our head of how it is supposed to be. Failure is only the opportunity to begin again more intelligently - Henry Ford. Understand why you procrastinate. Use structured procrastination - have 3 top priorities and work on the second one whilst procrastinating on the first. Have a to-don't list.
+
 - [Dan Pink - The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)  [18:36]
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
 - [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)  [45:50]
