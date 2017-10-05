@@ -37,6 +37,8 @@ Takeaway: What would your replacement have that you don't? Use if-then statement
 Takeaway: As a manager - Availability bias - the more skilled you are in an area, the more you value it. Skills stop being your bottleneck, time becomes your bottleneck or focus does. 3 virtues of a programmer. Laziness - Train people to be your replacement - train more than one. Hubris - find problems but bring the fix. Impatience - anticipate change, focus people on the most important work. Know when to say  "this work is not important and we should not work on it now." What does success look like? Impact (per unit in, what comes out), influence (authority from showing you know what you are doing) and qualitatative feedback. Ask what do I do that you like? What do I do that makes you less effective? 
 
 - [Sven Peters - How to do Kickass Software Development](https://vimeo.com/70102926) [59:08]
+Takeaway: Stop following the next guru. Optimise for feedback. Protect your developers - everyone should be on the frontline talking to customers. Developers need to learn to test to stop the team bottlenecks - train them how to do it. - write test recipes for how I would test this thing. Scale designers by having trained developers do design. CI - prioritise long running jobs so small jobs can run on free agents quicker.
+
 - [Sven Peters - Coding Culture](https://www.youtube.com/watch?v=l2bxzCTlvMs) [1:00:48]
 - [Roy Osherove - The Software Team Leader Manifesto](https://vimeo.com/43612918)  [1:13:20]
 - [Shawn Rider - Work is Not a Dare: Tips for Building Inclusive Teams](https://www.youtube.com/watch?v=OdHH5KWGTNo) [37:26]
