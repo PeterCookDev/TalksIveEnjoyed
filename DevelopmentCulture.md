@@ -47,6 +47,9 @@ Takeaway: Stop following the next guru. Optimise for feedback. Protect your deve
 Takeaway: Rock stars just rock at what they are doing. Superstars change the world. Not all awesome people want to change the world. Use the rock stars to help people who are good become awesome.  Superstars have a higher growth trajectory but usually leave your organisation quicker. Great model for working with varying growth and performance individuals. Give fair ratings -  reward rock stars as well as super stars.
 
 - [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg) [28:39]
+Takeaway: The managers job is to build the organisation. 121s - get better at listening. Use reflective questioning. Ask for stories. Avoid leading questions - direction is set by the questions you ask. Don't trust your memory - write things down. Separate insights from observations - what you've realised vs what you've been told.
+It is not your job to jump in when they you see a problem, it is your job to help them find the problem and solve it themselves. Be Alfred rather than Batman.
+
 - [Erika Carlson - Better: Fearless Feedback for Software Teams](https://www.youtube.com/watch?v=RsfNS9HSWQs)  [32:14]
 - [Panayiotis Thomakos - Developer Productivity Engineering](https://www.youtube.com/watch?v=mL6kOPxuQTI) [10:31] 
 - [Anjuan Simmons - Lending Privilege](https://www.youtube.com/watch?v=1K8Gz7fMevo) [29:07]
