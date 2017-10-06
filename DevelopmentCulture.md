@@ -94,7 +94,9 @@ Takeaway: Embrace learning - Books are like potato chips - they should be everyw
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 - [Adel Smee - What I Learned About Hiring...](https://www.youtube.com/watch?v=TRJC-HXHkrQ) [22:54]
+
 - [Naomi Ceder - Antipatterns for Diversity](https://www.youtube.com/watch?v=Xg1LgSg3pmo) [24:29]
+Takeaway: Use the we pronoun to stop marginalising people, we are capable of excluding others without intending even if we ourselves are marginalised. Focus more on promotion and retention - Inclusion is important. Is it a disadvantage to be different in you environment? We put the burden of improving on the people who are marginalised. Don't do diversity unless you mean inclusion.
 
 ## Code Review
 
