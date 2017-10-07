@@ -19,6 +19,8 @@ Takeaway: Eliminate should/must/ought/have to - Banish slave words. Remember thi
 Takeaway: The higher a nation's stress index - higher GDP, happiness, health, life expectancy. High stress index correlates with learning, feeling loved, feeling happy. Stress can be a barometer for how engaged you are with the things that are good in your life - love, learning, growth etc. People who avoid stress likely to be sicker, more unhappy, more likely to have stress related illnesses. The more adversity - more meaning in your life.
 
 - [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)  [19:42]
+Takeaway: Inspiration without getting stuff done is nothing. Plan out your day in terms of what outcome you want. The more your success scales, the more it shows the failures in it. To analyse your stress you need your data - Track your time. Maybe you aren't the best person to do your stuff. Getting things done means giving things up.
+
 - [Teresa Amabile - Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 - [Sean Stephenson - The prison of your mind](https://www.youtube.com/watch?v=VaRO5-V1uK0)  [10:25]
 - [Laura Schulz - The surprisingly logical minds of babies](http://www.ted.com/talks/laura_schulz_the_surprisingly_logical_minds_of_babies)  [20:18]
