@@ -14,7 +14,10 @@ Takeaway: Eliminate should/must/ought/have to - Banish slave words. Remember thi
 - [Jay O'Callahan - The Power of Storytelling](https://vimeo.com/14806071)  [17:27]
 - [Dr. Robert Cialdini and Steve Martin - The Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw)  [11:50]
 - [Peter de Jager - We have nothing to fear, but...](https://vimeo.com/135063614)  [58:10]
+
 - [Kelly McGonigal - How to Turn Stress Into an Advantage](https://vimeo.com/131589177)  [24:14]
+Takeaway: The higher a nation's stress index - higher GDP, happiness, health, life expectancy. High stress index correlates with learning, feeling loved, feeling happy. Stress can be a barometer for how engaged you are with the things that are good in your life - love, learning, growth etc. People who avoid stress likely to be sicker, more unhappy, more likely to have stress related illnesses. The more adversity - more meaning in your life.
+
 - [Wil Reynolds - The Hidden Danger of Confusing Outputs for Outcome](https://vimeo.com/130879614)  [19:42]
 - [Teresa Amabile - Track Your Small Wins to Motivate Big Accomplishments](https://vimeo.com/49179452)  [21:10]
 - [Sean Stephenson - The prison of your mind](https://www.youtube.com/watch?v=VaRO5-V1uK0)  [10:25]
