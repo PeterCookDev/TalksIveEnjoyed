@@ -75,6 +75,7 @@ Takeaway: Cult vs culture mentality within organisations. 90% of people follow c
 Takeaway: Validity - tests a known construct. Reliability - how closely grouped results are. Usability - how easy it is to use. You can only have 2 of them. Test your interviews on your existing team. Have a scoring rubric for the interview to minimise variance and bias. Don't debrief as a group until you have written down feedback. Interviewers will come to the same conclusion so they don't look stupid. Share all feedback at once. 
 
 - [Eric Weinstein - Booting Up: Hiring and Growing Boot Camp Graduates](https://www.youtube.com/watch?v=RlnA9IXmDQ0) [40:56]
+Takeaway: Interviews should ask "Are you good at doing the thing you do vs are you good at comp sci?" (which is not actually the thing we are looking for). Probe for strengths not weaknesses. What we should look for - ability to write non trivial problems, adaptibility, passion about learning, collaboration skills and self awareness.
 
 - [Diane Tate - Creating a Strong Geek Culture](https://www.youtube.com/watch?v=7nosGNOADpg)  [19:09]
 Takeaway: Hire for shared values. Reward the right behaviours - the how is just as important as the what. Be transparent in processes and choices - make sure it is accessible, make sure people feel they were part of the process. Distribute the responsibility of owning the culture to everyone.
