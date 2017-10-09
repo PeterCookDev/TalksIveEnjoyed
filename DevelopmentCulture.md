@@ -86,6 +86,8 @@ Takeaway: Hire for shared values. Reward the right behaviours - the how is just 
 Takeaway: Don't lie to candidates. Find out what they don't like and be honest if that is the environment you have.
 
 - [Cate Huston - 12 Challenging Steps to Being a Better Interviewer](https://vimeo.com/139910837)  [21:52]
+Takeaway: Be empathetic. Understand bias. Leave on a high. Let people make choices - choose the language they use etc. Take detailed notes. An hour being interviewed is probably the most important thing they do that day so get in the right place before interviewing them. Don't be hangry! Assume people are doing their best.
+
 - [Cate Huston - Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) [32:20]
 Takeaway: In a power based situation, the quality of the relationship is owned by the person with the power. Much of what we do as developers is not coding - we should test for those things in the interview. Remove conclusions in feedback you can't support with evidence. Remember interviewing is stressful and people are doing their best. Interviewer needs to be good at time management.
 
