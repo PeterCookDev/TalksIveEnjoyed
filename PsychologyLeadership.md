@@ -26,7 +26,10 @@ Takeaway: Inspiration without getting stuff done is nothing. Plan out your day i
 - [Laura Schulz - The surprisingly logical minds of babies](http://www.ted.com/talks/laura_schulz_the_surprisingly_logical_minds_of_babies)  [20:18]
 - [Brené Brown - The power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability)  [20:19]
 - [Margaret Heffernan - The dangers of "willful blindness"](http://www.ted.com/talks/margaret_heffernan_the_dangers_of_willful_blindness) [14:38]
+
 - [Margaret Heffernan - Why it's time to forget the pecking order at work](http://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work)  [15:47]
+Takeaway: Avoid superstars, average groups work better, superstars suppress the productivity of the rest. Successful groups higher scores for reading the mind in the eye tests (EQ measure). Give each member equal time to speak. 'There will be no stars in this team we need everybody'
+
 - [Margaret Heffernan - Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)  [12:56]
 - [Logan LaPlante - Hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)  [11:13]
 - [David Logan - Tribal leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership?language=en) [16:39]
