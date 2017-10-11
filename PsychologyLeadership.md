@@ -40,7 +40,10 @@ Takeaway: Avoid superstars, average groups work better, superstars suppress the 
 - [Chris Lema - The Impostor Syndrome](https://www.youtube.com/watch?v=uKTm3TV9u4M) [39:05]
 - [Tim Urban - Inside the mind of a master procrastinator](https://www.youtube.com/watch?v=arj7oStGLkU)  [14:03]
 - [Dan Ariely - What makes us feel good about our work?](https://www.youtube.com/watch?v=5aH2Ppjpcho) [20:27]
-- [Ramsey Nasser - Keynote: The Unfortunate Value of Failure](https://www.youtube.com/watch?v=JrwBDKV-6pQ) [34:35]
+
+- [Ramsey Nasser -  The Unfortunate Value of Failure](https://www.youtube.com/watch?v=JrwBDKV-6pQ) [34:35]
+Takeaway: Failure is not right or wrong. I expected X but I got Y. Failure = an undesirable result different to the intended one. In reviewing others code, if you don't have time to be constructive and helpful, don't bother to post at all. An answer that is technically correct but makes the asker feel horrible and deterred from programming *is worse than no answer at all*. Complexity exceeds mental capacity very quickly, leading to us interacting with computation at a distance. Programming = doing something new while learning. Learning has a chance of failure. Teachers - fail in front of your students to show its not all amadeus moments. Share your failures, its ok to stumble.
+
 - [Jessica Rose - Impostor Syndrome and Individual Competence](https://www.youtube.com/watch?v=wtrF5C7Gv7E) [26:49]
 - [Dr. Brian Little - Personalities at Work](https://www.youtube.com/watch?v=HQtUGMXqoD4) [57:44]
 - [Linda Rising - Who do You Trust? Beware of Your Brain](https://www.youtube.com/watch?v=IGHhCmdIvuI) [52:00]
