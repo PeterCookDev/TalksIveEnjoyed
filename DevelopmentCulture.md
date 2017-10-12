@@ -95,6 +95,8 @@ Takeaway: In a power based situation, the quality of the relationship is owned b
 Takeaway: Embrace learning - Books are like potato chips - they should be everywhere! Everyone in building turns up to standup. Get your customer to talk throught the story cards at show and tell, it means you can see if the work is correct, really quickly. Paper based planning scheme - size of paper story = time to do the work. Each sprint only has the stories that fit on that bit of paper.
 
 - [Regina Hartley - Why the best hire might not have the perfect resume](http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume)  [10:31]
+Takeaway: Scrappers - people who have fought adversity to get the job they want. Silver spoons - people born into good chances may not be able to handle hard times, think work beneath them etc. Dyslexia may lead to better listening skills.
+
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 
 - [Adel Smee - What I Learned About Hiring...](https://www.youtube.com/watch?v=TRJC-HXHkrQ) [22:54]
