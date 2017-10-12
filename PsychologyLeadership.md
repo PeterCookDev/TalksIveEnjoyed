@@ -45,7 +45,10 @@ Takeaway: Avoid superstars, average groups work better, superstars suppress the 
 Takeaway: Failure is not right or wrong. I expected X but I got Y. Failure = an undesirable result different to the intended one. In reviewing others code, if you don't have time to be constructive and helpful, don't bother to post at all. An answer that is technically correct but makes the asker feel horrible and deterred from programming *is worse than no answer at all*. Complexity exceeds mental capacity very quickly, leading to us interacting with computation at a distance. Programming = doing something new while learning. Learning has a chance of failure. Teachers - fail in front of your students to show its not all amadeus moments. Share your failures, its ok to stumble.
 
 - [Jessica Rose - Impostor Syndrome and Individual Competence](https://www.youtube.com/watch?v=wtrF5C7Gv7E) [26:49]
+
 - [Dr. Brian Little - Personalities at Work](https://www.youtube.com/watch?v=HQtUGMXqoD4) [57:44]
+Takeaway: Trait Psychology - 5 traits each is normally distributed. 1. Open to experience - like experimenting. 2. Conscientousness - predictor of mortality. High conscientousness live longer. 3. Extraversion - seeking out excitement. 4. Agreeableness. Valuable for groups. Disagreeableness (Type A). 5. Neurotic/Hyper Sensitive - see things coming. Discussion of introverts and extraverts. When we act out of character for work, love, life etc we can only do this for so long before we probably burnout.
+
 - [Linda Rising - Who do You Trust? Beware of Your Brain](https://www.youtube.com/watch?v=IGHhCmdIvuI) [52:00]
 - [Zach Holman - Firing People](https://www.youtube.com/watch?v=dxGen7sPWTw)  [39:09]
 - [Caroline Moore - Burnout and the Cult of Busy](https://www.youtube.com/watch?v=0yAJfiMlo7g) [32:07]
