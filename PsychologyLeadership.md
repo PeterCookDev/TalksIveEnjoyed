@@ -75,6 +75,7 @@ Takeaway: Honest open discussion about mental health in the developer community.
 Takeaway: Every 121 should have an action item for you and them. Find out what irritates people. What is wasting your time? Be predictable. Be transparent. Avoid asking complainers what is bad, what could make people happy to people who are already happy. Ask the same questions to people each time.
 
 - [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
+Takeaway: Failure can feel like the end of life but its not. Types of failure to avoid - losing touch with people, do not be an island, don't do everything yourself, don't surprise pople, don't fail to measure things.
 
 - [Deb Nicholson - Say No, Like a Boss!](https://www.youtube.com/watch?v=zMn70y4kLnM) [28:50]
 Takeaway: Understand the total of sum of work you can actually do. Say no to ill defined work or too much work. Understand verbal self-defense and how people try to get you to do things.
