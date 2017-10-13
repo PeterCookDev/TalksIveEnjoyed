@@ -72,6 +72,7 @@ Takeaway: Be empathetic, proactive, willing to take the hit, open to communicati
 Takeaway: Honest open discussion about mental health in the developer community. Tell people they matter (so often people don't think they do). Tell them how they impact your life. Especially people whose brains lie to them.
 
 - [Michael Ruggiero - What Do 1-on-1s Really Mean?](https://www.youtube.com/watch?v=iUWVQZzllTc) [16:19]
+Takeaway: Every 121 should have an action item for you and them. Find out what irritates people. What is wasting your time? Be predictable. Be transparent. Avoid asking complainers what is bad, what could make people happy to people who are already happy. Ask the same questions to people each time.
 
 - [Josh Simmons - Fail Early, Fail Often, Fail Well](https://www.youtube.com/watch?v=4Xu9zHiGOEc) [31:03]
 
