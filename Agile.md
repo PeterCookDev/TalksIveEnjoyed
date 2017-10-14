@@ -20,6 +20,7 @@ Takeaway: Ideas are cheap, execution is everything. OKRs - Objectives and Key Re
 - [Liz Keogh - An Introduction to Cynefin and related awesome thinking tools](https://vimeo.com/144981699)  [44:40]
 
 - [Troy Magennis - Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching](https://vimeo.com/144824390)  [41:17]
+Takeaway: Use combinations of competing metrics to stop people gaming the system. Quadrant approach - do it fast, do it on time, do it right, keep doing it. People won't try to change a number they don't understand. Measure the team not individuals. Aim for leading indicators that are passively captured. When comparing with other teams - show no numbers, show trend only against trend for company. Give coaching strategies based on the trendline they have.
 
 - [Ryan McKergow - Retrospectives strike back](https://www.youtube.com/watch?v=MR9kRtQYCu0) [30:04]
 
