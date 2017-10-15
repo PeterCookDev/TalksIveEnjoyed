@@ -67,6 +67,11 @@ Takeaway: 4 part approach to working and evaluating technical debt based around 
 - [James Smith - Your Software is Broken Pay Attention](https://www.youtube.com/watch?v=F6g_Fx8qqCU) [36:50] 
 Takeaway: Rethink production monitoring - monitor for stability, performance and stability - 49% of engineering time is spent finding and fixing bugs. Add hooks to detect crashes, errors and issues in production. Don't just have a stream of events, group like issues together. Focus on the most harmful. Capture diagnostic info for the crash - url, parameters passed etc.
 
+- [Joe Mastey - An Optimistic Proposal for Making Horrible Code... Bearable](https://www.youtube.com/watch?v=hFuzIWz6Ynk) [30:38]
+Takeaway: Flapping slow tests mean you don't know if you've really broken something. Badness in a codebase is unevenly distributed - use LOC as a measure of complexity. Run tools on your code base, find the levels for the worst bits of code then use them as a threshold - we will never be worse than this again. Ratchet the thresholds as you make things better so you can't violate them again. Breakages are going to happen - we  all make mistakes. Prioritize - make tests better, take out the 6K line classes by splitting them into smaller ones. Prioritize high code churn - one file at a time.
+
+
+
 ## .NET and `C#`
 
 - [Bart J.F. De Smet - Under the Hood of C# 6](https://vimeo.com/144630847)  [44:25]
