@@ -58,7 +58,10 @@ Takeaway: Self transformation is exciting for people, organisational transformat
 
 - [Michele L. Sullivan - Asking for help is a strength, not a weakness](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)  [11:55]
 - [Laura Vanderkam - How to gain control of your free time](https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time) [11:54]
+
 - [Adam Grant - The surprising habits of original thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)  [15:25]
+Takeaway: Originals are slow getting to the party. Procrastination is not good for productivity, but great for creativity. Originals feel doubt and fear but manage it differently. Self doubt is paralysing, but idea doubt it energising. Originals have lots of bad ideas - they fail the most, as they also try the most. 
+
 - [Shawn Achor - The happy secret to better work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work)  [12:20]
 - [Mihaly Csikszentmihalyi - Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) [18:55]
 - [Jason Fried - Why work doesn't happen at work](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) [15:21]
