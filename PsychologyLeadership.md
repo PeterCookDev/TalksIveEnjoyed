@@ -57,7 +57,9 @@ Takeaway: Trait Psychology - 5 traits each is normally distributed. 1. Open to e
 Takeaway: Self transformation is exciting for people, organisational transformation is scary. Inspire through purpose. Don't hide downsizing in transformation. Give people the skills they need during the transformation. Create a culture of continuous learning. You need a clear roadmap with milestones.
 
 - [Michele L. Sullivan - Asking for help is a strength, not a weakness](https://www.ted.com/talks/michele_l_sullivan_asking_for_help_is_a_strength_not_a_weakness)  [11:55]
+
 - [Laura Vanderkam - How to gain control of your free time](https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time) [11:54]
+Takeaway: Write down what you do each 30 mins. Look at it and work out what you actually want to do. Acknowledge I don't do XYZ because its not a priority. Write next years performance review or next years Xmas letter - What 3-5 things did you do that made is amazing? Put your priorities into the schedule first (2-3 items up front).
 
 - [Adam Grant - The surprising habits of original thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)  [15:25]
 Takeaway: Originals are slow getting to the party. Procrastination is not good for productivity, but great for creativity. Originals feel doubt and fear but manage it differently. Self doubt is paralysing, but idea doubt it energising. Originals have lots of bad ideas - they fail the most, as they also try the most. 
