@@ -65,6 +65,8 @@ Takeaway: Write down what you do each 30 mins. Look at it and work out what you 
 Takeaway: Originals are slow getting to the party. Procrastination is not good for productivity, but great for creativity. Originals feel doubt and fear but manage it differently. Self doubt is paralysing, but idea doubt it energising. Originals have lots of bad ideas - they fail the most, as they also try the most. 
 
 - [Shawn Achor - The happy secret to better work](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work)  [12:20]
+Takeaway: It is not your reality that shapes your world, but the lens you view your reality through. Our external world only predicts 10% of our long term happiness. 75% of job success determined by positivity and performance not IQ. Every time you have a success your brain redefines the goal posts for the next one. The happiness advantage - we become more successful when we are happier rather than happier when we are more successful.
+
 - [Mihaly Csikszentmihalyi - Flow, the secret to happiness](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow) [18:55]
 - [Jason Fried - Why work doesn't happen at work](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) [15:21]
 Takeaway: People need long stretches of uninterrupted time, offices aren't good for this. Distractions at home are voluntary, in the office they are involuntary. Meetings need to be quick chats. No meeting days. Avoid active communication - move to passive communication like chat.
