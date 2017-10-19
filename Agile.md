@@ -59,6 +59,7 @@ Takeaway: Outgoing messages assert collaboration occurred. Incoming messages ass
 Takeaway: Maybe 1 in 5 tests should have mocks. Should have lots of stubs not mocks. Only mock out dependencies to an external 3rd party framework. Unit tests should avoid logic, random numbers and loops. Watch out for tests that interact.
 
 - [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
+Takeaway: A test case per class fails to capture the ethos of tdd. The trigger for a new class is implementing a new requirement. Only test the surface of a module. Unit tests run in isolation from other tests, not other modules. Databases, file systems stop tests being isolated from each other. Tests should not depend on implementation details. Don't mock out your internals. Mock the port to the adapter not the adapter itself.
 
 - [Venkat Subramaniam - Succeeding with TDD: Pragmatic Techniques for effective mocking](https://vimeo.com/68383352) [1:02:09]
 
