@@ -121,6 +121,7 @@ Takeaway: Make sure people have the time to mentor. Set clear expectations. Don'
 - [Melinda Seckington - Learn. Reflect. Repeat.](https://vimeo.com/161603136) [30:37]
 
 - [Roux Buciu - Learning to code... better!](https://www.youtube.com/watch?v=jt93AfS9GYI) [32:27]
+Takeaway: Build something meaningful. Plan to fail over and over again. How to learn anything - stick with a method, take a break, play with side projects, teach. Practice - read code and record your learning.
 
 - [Aja Hammerly - Sharpening The Axe: Self-Teaching For Developers](https://www.youtube.com/watch?v=7JD9ZQZMmjo) [34:38]
 Takeaway: Lifelong learning is whats required for Tech. Learn interesting stuff, hard stuf, stuff that makes you think. Learn something everyday - 30 mins away from your desk. Timebox, explore, throwaway. Try not to learn multiple things in parallel.
