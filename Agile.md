@@ -73,6 +73,8 @@ Takeaway: Add in testing seams, and interfaces when you have multiple implementa
 
 - [Seb Rose - So long, and thanks for all the tests](https://vimeo.com/105861375)  [1:00:25]
 - [Matt Wynne - Beyond BDD](https://vimeo.com/143941147) [34:32]
+- [Caitie McCaffrey - The Verification of a Distributed System](https://www.youtube.com/watch?v=ZDQdF6WCt2w) [41:22]
+Takeaway: Array of techniques to test in the wild such as integration, unit, property based testing, fault injection etc. Unit tests need to cover error handling - 35% of catastrophic failures happen due to bad error handling. Passing tests doesnt mean your system is correct.
 
 ## Devops
 
