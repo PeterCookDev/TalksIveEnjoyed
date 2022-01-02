@@ -70,7 +70,8 @@ Takeaway: Rethink production monitoring - monitor for stability, performance and
 - [Joe Mastey - An Optimistic Proposal for Making Horrible Code... Bearable](https://www.youtube.com/watch?v=hFuzIWz6Ynk) [30:38]
 Takeaway: Flapping slow tests mean you don't know if you've really broken something. Badness in a codebase is unevenly distributed - use LOC as a measure of complexity. Run tools on your code base, find the levels for the worst bits of code then use them as a threshold - we will never be worse than this again. Ratchet the thresholds as you make things better so you can't violate them again. Breakages are going to happen - we  all make mistakes. Prioritize - make tests better, take out the 6K line classes by splitting them into smaller ones. Prioritize high code churn - one file at a time.
 
-
+- [Dave Farley - Taking Back "Software Engineering"](https://www.youtube.com/watch?v=_N_jIrEBOpw) [44:51]
+Takeaway: Software development is not production scaling problem (like manufacturing). Engineering is the application of an empirical, scientific approach to finding efficient solutions to practical problems. Optimise for learning. Needs to be iterative, incremental, experimental, feedback driven and empirical.
 
 ## .NET and `C#`
 
